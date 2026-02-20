@@ -1,0 +1,79 @@
+---
+version: 0
+id: chapitre1
+title: >-
+   Cadrage théorique et méthodologique pour l'éthologie réflexive visuelle
+title_f: >-
+   Cadrage théorique et méthodologique pour l'éthologie réflexive visuelle
+title_h: >-
+   Cadrage théorique et méthodologique
+lang: fr
+year: '2021'
+month: '06'
+day: '15'
+date: 2021/06/15
+rights: |-
+
+  Creative Commons Attribution-ShareAlike 4.0 International (CC
+  BY-SA 4.0)
+url: 'http://ateliers.sens-public.org/fabrique-de-l-interaction-parmi-les-ecrans/chapitre1.html'
+isbnprint: 978-2-924925-10-2
+isbnepub: 978-2-924925-12-6
+isbnpdf: 978-2-924925-11-9
+isbnnum: 978-2-924925-13-3
+authors:
+  - forname: Christine
+    surname: Develotte
+    orcid: 0000-0002-1854-0422
+    display:
+    iddescription: participants.html#chercheurChristine
+  - forname: Morgane
+    surname: Domanchin
+    orcid: 0000-0003-4053-0025
+    display:
+    iddescription: participants.html#chercheurMorgane
+  - forname: Samira
+    surname: Ibnelkaïd
+    orcid:
+    display:
+    iddescription: participants.html#chercheurSamira
+abstract_fr: >-
+      Qu'est-ce que la présence aujourd'hui&nbsp;? Comment adapter et s'approprier les nouvelles formes de présence dans un contexte de recherche&nbsp;? Comment former les futur·e·s chercheur·e·s à distance&nbsp;? Quelles sont les implications de l'environnement numérique sur le travail d'équipe&nbsp;?
+      À l'heure où la visioconférence devient norme, où la plupart de nos échanges ont lieu à travers un écran, cet ouvrage propose un ensemble de réponses --&nbsp;une boîte à outils conceptuels&nbsp;-- adaptées aux nouvelles réalités et expériences de la vie de chercheur·e·s. Ces concepts et méthodes ici créés sont applicables à l'étude de toute situation d'interaction par écran, formelle et informelle (contexte professionnel, institutionnel, interpersonnel, etc.).
+      Avec une approche interdisciplinaire, il étudie les différents aspects des interactions par écran et analyse les effets des artefacts (robots de téléprésence) et des plateformes de visioconférence dans un contexte hybride mêlant présence et distance&nbsp;: co-construction de l'attention, émergence d'une intercorporéité, nouvelles normes de politesse, effets de présence, gestion des bugs et des ratés, impact sur la formation des doctorant·e·s... Les auteur·e·s, en se choisissant comme propre objet d'analyse, posent ici les bases d'une éthologie réflexive visuelle plaçant la multimodalité, le vécu subjectif et la sensorialité au cœur de l’analyse des interactions, de l’observation à la diffusion scientifiques.
+      En cohérence avec l'objet du livre, son format et son mode de production ont permis l'expérimentation d'un nouvel écosystème de publication basé sur des environnements de travail collaboratif à distance et sur la libre diffusion du savoir.
+abstract_en: >-
+      How can new technologies be apprehended in and adapted to a research context? How to provide
+      efficient online training to junior researchers? What are the implications of a digital environment on
+      teamwork?
+      At a time when video mediated interactions are becoming common, this book puts forward some
+      answers in the shape of a conceptual toolbox adapted to Researchers’ new realities and experiences.
+      The concepts and methods we created can be used for the study of any screen-based interaction,
+      either formal or informal (in professional, institutional, and mundane settings). Through an
+      interdisciplinary approach, we study various aspects of screen-based interactions and analyse the
+      effects of artefacts such as telepresence robots and videoconferencing platforms within a hybrid
+      context that combines presence and distance. The chapters constituting this book particularly shed
+      light onto the co-construction of attention, the emergence of artefacted intercorporeality, new
+      norms of politeness, effects of presence, the management of digital bugs and interactional fails, and
+      finally the impact of such a hybrid context on doctoral students’ training. The authors lay the
+      foundations of a Visual Reflexive Ethology by placing themselves as the object of analysis, and
+      situating multimodality, subjective experience, and sensoriality at the heart of Interaction Analysis,
+      from data observation to scientific dissemination. In coherence with the book&#39;s object of study, the
+      chosen format and production process have allowed the experimentation of a new publishing
+      ecosystem based on collaborative remote work environments and on the free dissemination of
+      knowledge.
+bibliography: chapitre1.bib
+keyword_fr: >-
+   présence, formation, IMPEC, science ouverte, affordances, intercorporéité, attention, politesse, bugs, multimodalité, interactions par écran, artefact
+keyword_en: >-
+   presence, training, IMPEC, open science, affordances, intercorporeality, attention, politeness, bugs, multimodality, screen-based interactions, artefact
+publisher: Les Ateliers de [sens public]
+booktitle: >-
+    Fabrique de l'interaction parmi les écrans : formes de présences en recherche et en formation
+bookplace: Montréal
+
+link-citations: true
+nocite: ''
+url_traduction: >-
+    [English version >](http://ateliers.sens-public.org/interactions-and-screens-in-research-and-education/chapter1.html)
+---

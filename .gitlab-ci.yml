@@ -1,0 +1,55 @@
+image: ubuntu:24.04
+
+variables:
+  UV_CACHE_DIR: "$CI_PROJECT_DIR/.uv-cache"
+  APT_DIR: "$CI_PROJECT_DIR/.apt"
+  APT_STATE_LISTS: "$CI_PROJECT_DIR/.apt/lists"
+  APT_CACHE_ARCHIVES: "$CI_PROJECT_DIR/.apt/archives"
+
+cache:
+  - key:
+      files:
+        - uv.lock
+    paths:
+      - $UV_CACHE_DIR
+  - paths:
+    - .apt/
+
+before_script:
+  # Install dependencies and create associated cache dirs
+  - mkdir -p "${APT_STATE_LISTS}/partial"
+  - mkdir -p "${APT_CACHE_ARCHIVES}/partial"
+  - apt update -qy
+  - apt install -y apt-utils
+  - apt install -y curl python3
+  - apt install -y locales locales-all
+  - apt install -y pandoc
+
+pages:
+  stage: deploy
+  script:
+    # Optionnal: get feedback from current environment
+    - ls -al
+    - pwd
+    - python3 --version
+    # Install uv, see https://docs.astral.sh/uv/#getting-started
+    - curl -LsSf https://astral.sh/uv/install.sh | sh
+    # Put uv in the path
+    - source $HOME/.local/bin/env
+    # Check the available version of Python
+    - uv python list
+    # Install the pressoir from the HEAD of the current branch with dev dependencies
+    - uv add . --dev
+    # Run the pressoir against the `docs` directory to generate
+    # the documentation available at https://pressoir.org
+    - uv tool run --from "pressoir @ ." pressoir docs --target-path="/data/runner/builds/${CI_PROJECT_NAMESPACE}/${CI_PROJECT_NAME}/public"
+    # Link to the generated documentation
+    - echo "Documentation available at ${CI_PAGES_URL}"
+    # See https://docs.astral.sh/uv/guides/integration/gitlab/#caching
+    - uv cache prune --ci
+  artifacts:
+    paths:
+      - public
+  rules:
+    # Only launch the CI if we are on the default branch (`main`)
+    - if: $CI_COMMIT_REF_NAME == $CI_DEFAULT_BRANCH
