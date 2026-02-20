@@ -1,4 +1,4 @@
-languages = ["fr", "es", "pt"]
+languages = ["fr", "es"]
 
 [statics]
 css_files = [

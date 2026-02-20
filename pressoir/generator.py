@@ -80,15 +80,24 @@ def generate_chapter(
         f"    [{lang}]{current_chapter.id}: {current_chapter.title_stripped} "
         + f"({meta['index']}/{meta['nb_of_chapters']})"
     )
+    # Charger les métadonnées traduites du chapitre si elles existent
+    chapter_dict = asdict(current_chapter)
+    textes_path = repository_path / "textes"
+    chapter_yaml = textes_path / current_chapter.id / f"{current_chapter.id}_{lang}.yaml"
+    if chapter_yaml.exists():
+        translated_meta = yaml.safe_load(chapter_yaml.read_text())
+        chapter_dict.update(translated_meta)
+
     dict_content = {
         "book": asdict(book),
-        "chapter": asdict(current_chapter),
+        "chapter": chapter_dict,
         "prev": (previous_chapter and asdict(previous_chapter)) or "",
         "next": (next_chapter and asdict(next_chapter)) or "",
         "meta": meta,
         "lang": lang,
     }
     yaml_content = yaml.dump(dict_content)
+
 
     with tempfile.NamedTemporaryFile() as metadata_file:
         metadata_file.write(yaml_content.encode("utf-8"))

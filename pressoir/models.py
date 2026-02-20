@@ -227,8 +227,7 @@ class Chapter(YAMLWizard):
         self.translators = dataclass_translators
 
 
-def configure_book(yaml_path):
-    # Preserves abstract_fr key for instance (vs. abstract-fr) when converting to_yaml()
+def configure_book(yaml_path, lang="fr"):
     DumpMeta(key_transform="SNAKE").bind_to(Book)
     DumpMeta(key_transform="SNAKE").bind_to(Chapter)
 
@@ -237,7 +236,7 @@ def configure_book(yaml_path):
     except ComposerError:
         book = Book.from_yaml(yaml_path.read_text().split("---")[1])
     repository_path = yaml_path.parent.parent
-    book.chapters_and_parts = configure_chapters_and_parts(book, repository_path)
+    book.chapters_and_parts = configure_chapters_and_parts(book, repository_path, lang)
     only_chapters = []
     for chapter_or_part in book.chapters_and_parts:
         if isinstance(chapter_or_part, Chapter):
@@ -250,12 +249,12 @@ def configure_book(yaml_path):
     return book
 
 
-def configure_chapters_and_parts(book, repository_path):
+def configure_chapters_and_parts(book, repository_path, lang="fr"):
     dataclass_chapters = []
     for chapter in book.toc:
         if "id" in chapter:
             dataclass_chapters.append(
-                configure_chapter(book, chapter["id"], repository_path)
+                configure_chapter(book, chapter["id"], repository_path, lang)
             )
         elif "parttitle" in chapter:
             part = Part(title=chapter["parttitle"])
@@ -263,23 +262,21 @@ def configure_chapters_and_parts(book, repository_path):
             part_chapters = []
             for chap in chapter["content"]:
                 part_chapters.append(
-                    configure_chapter(book, chap["id"], repository_path)
+                    configure_chapter(book, chap["id"], repository_path, lang)
                 )
             part.chapters = part_chapters
     return dataclass_chapters
 
 
-def configure_chapter(book, chapter_id, repository_path):
+def configure_chapter(book, chapter_id, repository_path, lang="fr"):
+    yaml_path = repository_path / chapter_id / f"{chapter_id}_{lang}.yaml"
+    if not yaml_path.exists():
+        yaml_path = repository_path / chapter_id / f"{chapter_id}.yaml"
+    
     try:
-        chapter = Chapter.from_yaml_file(
-            repository_path / chapter_id / f"{chapter_id}.yaml"
-        )
+        chapter = Chapter.from_yaml_file(yaml_path)
     except ComposerError:
-        chapter = Chapter.from_yaml(
-            (repository_path / chapter_id / f"{chapter_id}.yaml")
-            .read_text()
-            .split("---")[1]
-        )
+        chapter = Chapter.from_yaml(yaml_path.read_text().split("---")[1])
 
     chapter.id = chapter_id
     chapter.url = f"{book.url}{chapter_id}.html"

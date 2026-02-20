@@ -71,7 +71,6 @@ toc:
   # si pas de partie, indiquer le titre du chapitre suivant
     content:
       - id: ArseneauTitre
-      - id: chapitre2
       - id: cassette
   #- parttitle: Brésil
   #- parttitle: Cuba

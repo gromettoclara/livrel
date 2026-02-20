@@ -113,14 +113,12 @@ def build(
     print(
         f"Building a book from {repository_path.resolve()} to {target_path.resolve()}."
     )
-    book = configure_book(repository_path / "textes" / "garde" / "livre.yaml")
+    # Pour sync_media uniquement, avant la boucle
+    book_default = configure_book(repository_path / "textes" / "garde" / "livre.yaml")
     if not keep_statics:
-        sync_media(repository_path, target_path, book)
+        sync_media(repository_path, target_path, book_default)
         sync_statics(repository_path, target_path)
     css_filename, js_filename = bundle_statics(repository_path, target_path)
-    if verbose:
-        import pprint
-        pprint.pprint(book)
 
     meta = {"css_filename": css_filename, "js_filename": js_filename}
 
@@ -130,18 +128,15 @@ def build(
     languages = book_settings.get("languages", ["fr"])
     meta["languages"] = languages
 
-    print(f"debug: book.toml content:")
-    print(f"   {book_settings}")
-    print(f"debug: languages = {languages}")
-    print(f"debug: type = {type(languages)}, length = {len(languages)}")
-
     all_chapters = []
     
     for lang in languages:
-        print(f"\n{'='*60}")
-        print(f"Building for language: {lang}")
-        print(f"{'='*60}")
+        book = configure_book(repository_path / "textes" / "garde" / "livre.yaml", lang=lang)
         
+        if verbose:
+            import pprint
+            pprint.pprint(book)
+
         generate_homepage(
             repository_path,
             target_path,
