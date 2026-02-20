@@ -240,7 +240,7 @@ $if(meta.languages)$
   <ul class="lang-menu">
     $for(meta.languages)$
     <li>
-      <a href="/$meta.languages$/$if(chapter.id)$$chapter.id$$else$index$endif$.html" 
+      <a href="../$meta.languages$/$if(chapter.id)$$chapter.id$$else$index$endif$.html" 
          $if(meta.current_language)$aria-current="page"$endif$
          hreflang="$meta.languages$">
         $meta.languages$
