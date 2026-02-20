@@ -158,6 +158,10 @@ def build(
     
     generate_indexes(repository_path, target_path, book)
     generate_search_page(repository_path, target_path, book, all_chapters)
+    import shutil
+    index_src = repository_path / "textes" / "garde" / "index.html"
+    if index_src.exists():
+        shutil.copy(index_src, target_path / "index.html")
 
 
 @cli

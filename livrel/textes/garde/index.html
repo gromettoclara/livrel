@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Choisir une langue</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,700;1,400&family=Libre+Baskerville:ital@0;1&display=swap');
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --ink: #1a1108;
+      --paper: #f5f0e8;
+      --accent: #8b2e0f;
+      --muted: #9e8e7a;
+      --rule: #c8b89a;
+    }
+
+    body {
+      background: var(--paper);
+      color: var(--ink);
+      font-family: 'Libre Baskerville', Georgia, serif;
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      padding: 2rem;
+      position: relative;
+      overflow: hidden;
+    }
+
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background-image: repeating-linear-gradient(
+        0deg,
+        transparent,
+        transparent 28px,
+        rgba(180,160,130,0.08) 28px,
+        rgba(180,160,130,0.08) 29px
+      );
+      pointer-events: none;
+    }
+
+    .container {
+      max-width: 640px;
+      width: 100%;
+      text-align: center;
+      position: relative;
+      animation: fadeIn 1.2s ease both;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(16px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+
+    .ornament {
+      color: var(--accent);
+      font-size: 1.4rem;
+      letter-spacing: 0.3em;
+      margin-bottom: 2rem;
+      opacity: 0.6;
+    }
+
+    .rule {
+      border: none;
+      border-top: 1px solid var(--rule);
+      margin: 0 auto 2.5rem;
+      width: 60%;
+      position: relative;
+    }
+
+    .rule::before {
+      content: '◆';
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      background: var(--paper);
+      color: var(--accent);
+      padding: 0 0.5rem;
+      font-size: 0.6rem;
+    }
+
+    .language-label {
+      font-size: 0.75rem;
+      letter-spacing: 0.2em;
+      text-transform: uppercase;
+      color: var(--muted);
+      margin-bottom: 1.25rem;
+    }
+
+    .languages {
+      display: flex;
+      gap: 1rem;
+      justify-content: center;
+      flex-wrap: wrap;
+    }
+
+    .lang-link {
+      display: inline-block;
+      padding: 0.75rem 2rem;
+      border: 1px solid var(--rule);
+      color: var(--ink);
+      text-decoration: none;
+      font-family: 'Playfair Display', Georgia, serif;
+      font-size: 1rem;
+      letter-spacing: 0.05em;
+      transition: all 0.25s ease;
+      position: relative;
+      background: transparent;
+    }
+
+    .lang-link::before {
+      content: '';
+      position: absolute;
+      inset: 3px;
+      border: 1px solid transparent;
+      transition: border-color 0.25s ease;
+    }
+
+    .lang-link:hover {
+      background: var(--ink);
+      color: var(--paper);
+      border-color: var(--ink);
+    }
+
+    .lang-link:hover::before {
+      border-color: rgba(255,255,255,0.3);
+    }
+
+    .lang-name {
+      display: block;
+      font-size: 1rem;
+    }
+
+    .lang-native {
+      display: block;
+      font-style: italic;
+      font-size: 0.75rem;
+      opacity: 0.6;
+      margin-top: 0.2rem;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="ornament">— ✦ —</div>
+    <hr class="rule">
+    <p class="language-label">Choisir une langue &mdash; Elegir un idioma &mdash; Escolher um idioma</p>
+    <nav class="languages">
+      <a class="lang-link" href="./fr/index.html">
+        <span class="lang-name">Français</span>
+        <span class="lang-native">fr</span>
+      </a>
+      <a class="lang-link" href="./es/index.html">
+        <span class="lang-name">Español</span>
+        <span class="lang-native">es</span>
+      </a>
+      <!-- <a class="lang-link" href="./pt/index.html">
+        <span class="lang-name">Português</span>
+        <span class="lang-native">pt</span>
+      </a> -->
+    </nav>
+  </div>
+</body>
+</html>
