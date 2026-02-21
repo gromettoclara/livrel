@@ -111,3 +111,42 @@ h1.title {
     min-width: 40%;
     margin-top: 10rem;
 }
+
+.language-selector {
+  display: flex;
+  align-items: center;
+  margin-right: 1rem;
+}
+
+.lang-menu {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.lang-menu li + li::before {
+  content: "|";
+  margin-right: 0.5rem;
+  opacity: 0.4;
+}
+
+.lang-menu a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-size: 1.6rem;   /* aligné sur la taille des h2 du header */
+  font-weight: 600;
+  opacity: 0.6;
+  color: var(--header-color);
+}
+
+.lang-menu a:hover {
+  opacity: 1;
+}
+
+.lang-menu a[aria-current="page"] {
+  opacity: 1;
+  text-decoration: underline;
+}

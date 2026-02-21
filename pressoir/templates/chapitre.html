@@ -240,7 +240,7 @@ $if(meta.languages)$
   <ul class="lang-menu">
     $for(meta.languages)$
     <li>
-      <a href="../$meta.languages$/$if(chapter.id)$$chapter.id$$else$index$endif$.html" 
+      <a href="../$meta.languages$/$if(chapter.id)$$chapter.id$$else$index$endif$.html"
          $if(meta.current_language)$aria-current="page"$endif$
          hreflang="$meta.languages$">
         $meta.languages$
@@ -286,11 +286,11 @@ $endif$
 </header>
 
 
-<div class="toc"></div>
+<!-- <div class="toc"></div> -->
 
 <article>
 <header>
-$if(book.has_search)$
+<!-- $if(book.has_search)$
   $if(chapter.is_not_search)$
     <form action="recherche.html" method="get" class="searchnote">
       <p>
@@ -301,14 +301,14 @@ $if(book.has_search)$
       </p>
     </form>
   $endif$
-$endif$
+$endif$ -->
 $if(chapter.title)$
 <h1 class="title">$chapter.title_html$</h1>
 $endif$
 $if(chapter.subtitle)$
 <p class="subtitle">$chapter.subtitle_html$</p>
 $endif$
-$for(chapter.authors)$
+<!-- $for(chapter.authors)$
   $if(chapter.authors.display)$
   $else$
     $if(book.collective)$
@@ -324,7 +324,7 @@ $for(chapter.authors)$
       </p>
     $endif$
   $endif$
-$endfor$
+$endfor$ -->
 $if(chapter.translators)$
   $for(chapter.translators)$
     <p class="translator">Traduit par
@@ -345,7 +345,7 @@ $if(chapter.blockcitation)$
   $if(chapter.url_traduction)$
     <span class="marginnote url-trad">$chapter.url_traduction$</span>
   $endif$
-  <span class="marginnote infochapitre">
+  <!-- <span class="marginnote infochapitre">
     $for(chapter.authors)$
       $chapter.authors.forname$ $chapter.authors.surname$$sep$,
     $endfor$,
@@ -367,7 +367,7 @@ $if(chapter.blockcitation)$
     <em>$book.title_html$</em> (édition augmentée), $book.publisher$, $book.place$, $book.year$, ISBN&nbsp;: $book.isbnnum$, $chapter.url$.<br>
     version $book.version$, $book.day$/$book.month$/$book.year$<br/>
     $book.rights$
-  </span>
+  </span> -->
 </p></section>
 $endif$
 </header>
