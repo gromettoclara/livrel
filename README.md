@@ -2,7 +2,7 @@
 
 Documentation complète : https://pressoir.org/
 
-Initialement développé par David Larlet [ici]()
+Initialement développé par David Larlet [ici](https://gitlab.huma-num.fr/ecrinum/pressoir)
 
 
 ## Installation
