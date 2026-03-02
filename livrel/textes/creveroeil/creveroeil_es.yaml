@@ -1,14 +1,13 @@
 title: >-
-    Loïc Arseneau : Titre
+    Loïc Arseneau : Titre !
 subtitle: >-
 blockcitation: true
 authors:
-    - forname: Levesque
-      surname: Loic
+    - forname: Arseneau
+      surname: Loïc
       orcidurl:
       display:
       presentation: >-
-          Courte biographie de l'auteur qui apparaît en fin de chapitre si il est renseignée (Parcours Numériques)
 abstract_fr:
 abstract_en:
 keyword_fr:
