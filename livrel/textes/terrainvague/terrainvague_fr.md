@@ -59,14 +59,14 @@ Bang.
 – Comment ça va l’école ?\
 – Tu veux faire quoi à l’université ?\
 – Tes amis, comment ils vont ?\
-– *Quoi de neuf ?*\
+– *Quoi de neuf ?*
 
 Encore\
 – Ça va.\
 Et encore\
 – Ça va.\
 Et encore.\
-– ÇA VA.\
+– ÇA VA.
 
 BANG. 
 
