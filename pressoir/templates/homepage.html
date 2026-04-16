@@ -230,10 +230,7 @@ Schema specialise pour les revues et journaux-->
       section div:first-of-type {
         min-width: 250px;
       }
-      section div:first-of-type,
-      section div:last-of-type {
-        margin-block-start: 7rem;
-      }
+
       section div:first-of-type * {
         font-size: 110%;
       }
@@ -258,41 +255,37 @@ Schema specialise pour les revues et journaux-->
     <h2>$book.subtitle$</h2>
   </hgroup>
   <section>
-    <div class="presentation">
-      <!-- $if(singleauthor)$
-      <h3>Auteur</h3>
-      $else$
-      <h3>Auteurs</h3>
-      $endif$
-      <p>
-        $for(book.authors)$
-          <a href="$book.authors.orcidurl$">$book.authors.forname$ $book.authors.surname$</a>
-        $endfor$
-      </p>
-      <h3>Résumé</h3>
-      <p>$book.abstract_fr$</p>
-      $if(book.isbnnum)$
-        <p><strong>ISBN (web) :</strong> $book.isbnnum$</p>
-      $endif$
-      $if(book.isbnpdf)$
-        <p><strong>ISBN (PDF) :</strong> $book.isbnpdf$</p>
-      $endif$
-      $if(book.isbnepub)$
-        <p><strong>ISBN (EPUB) :</strong> $book.isbnepub$</p>
-      $endif$
-      $if(book.isbnprint)$
-        <p><strong>ISBN (POD) :</strong> $book.isbnprint$</p>
-      $endif$ -->
-      <!-- <p>
-        <a href="$first_chapter_id$.html">Lire l’édition augmentée</a>
-      </p> -->
-    </div>
-    <div class="content">
+<div class="content">
       $body$
     </div>
+  </section>
+  <section>
+    
     <div class="image">
-      <a href="$first_chapter_id$.html"><img src="$book.coverurl$" alt="$book.title$"></a>
+      <a href="$first_chapter_id$.html"><img src="../media/porte.png" alt="$book.title$"></a>
     </div>
+
+    <div class="sommaire">
+         <ul>
+      $for(book.chapters_and_parts)$
+        <li>
+          $if(it.url_relative)$
+            <a href="$it.url_relative$">$it.title_html$</a>
+          $else$
+            $it.title_html$
+          $endif$
+          $if(it.chapters)$
+            <ul>
+              $for(it.chapters)$
+                <li><a href="$it.url_relative$">$it.title_html$</a></li>
+              $endfor$
+            </ul>
+          $endif$
+        </li>
+      $endfor$
+    </ul>
+    </div>
+
   </section>
 </body>
 </html>

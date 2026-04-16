@@ -1,80 +1,80 @@
 *Play*. 
  
-Chega uma garrafa ao mar\ 
-Com um convite dentro\Pra voltar à aventura\ 
-Um tesouro brilha diante dos meus olhos\ 
-Discussão tensa\ 
-Recusa imediata.\ 
-Não. Não. Não. Nunca mais.\ 
+Chega uma garrafa ao mar<br> 
+Com um convite dentro<br>Pra voltar à aventura<br> 
+Um tesouro brilha diante dos meus olhos<br> 
+Discussão tensa<br> 
+Recusa imediata.<br> 
+Não. Não. Não. Nunca mais.<br> 
 Meu paraíso é aqui.
 
 *Pause. Rewind.*
 
-Acordo com o cheiro de fogo\ 
-E o canto suave dos pássaros\ 
-Abro bem os olhos\ 
-Rápido! Rápido! Mais rápido!\ 
-Corro até a grande porta de vidro\ 
-Ufa! Não era só um sonho\ 
-Os raios do sol fazem brilhar\ 
-A neve como um coral cintilante\ 
-Apesar da temperatura congelante\ 
-Desse mar selvagem e indomável\ 
-Calço as botas, visto meu traje de exploradora\ 
+Acordo com o cheiro de fogo<br> 
+E o canto suave dos pássaros<br> 
+Abro bem os olhos<br> 
+Rápido! Rápido! Mais rápido!<br> 
+Corro até a grande porta de vidro<br> 
+Ufa! Não era só um sonho<br> 
+Os raios do sol fazem brilhar<br> 
+A neve como um coral cintilante<br> 
+Apesar da temperatura congelante<br> 
+Desse mar selvagem e indomável<br> 
+Calço as botas, visto meu traje de exploradora<br> 
 Vamos lá! Riquezas e maravilhas, tô chegando!
 
 *Pause. Fast forward.*
 
-Overdose.\ 
-Essa paisagem verde me enoja\ 
-Quero voltar à margem\ 
-As ondas me afastam dela\ 
-Eu sufoco. Eu me afogo.\ 
-Preciso sair daqui de verdade\ 
-Onde fica a saída? A saída de emergência?\ 
-Preciso fugir\ 
-Escapar dessa monotonia constante\ 
-Voltar pra minha vida de antes\ 
-Já tô de saco cheio\ 
+Overdose.<br> 
+Essa paisagem verde me enoja<br> 
+Quero voltar à margem<br> 
+As ondas me afastam dela<br> 
+Eu sufoco. Eu me afogo.<br> 
+Preciso sair daqui de verdade<br> 
+Onde fica a saída? A saída de emergência?<br> 
+Preciso fugir<br> 
+Escapar dessa monotonia constante<br> 
+Voltar pra minha vida de antes<br> 
+Já tô de saco cheio<br> 
 Isso acaba quando!?
 
 *Pause. Fast forward.*
 
-Finalmente. Depois de quase seis meses\ 
-Reencontrei o meu caminho\ 
-Vejo a costa, meus pés tocam o fundo\ 
-Reconheço uma paisagem familiar\ 
-Os tijolos vermelhos da minha casa\ 
-O asfalto da minha rua, nossa bétula\ 
-Tudo é diferente dessa paisagem de conto de fadas\ 
+Finalmente. Depois de quase seis meses<br> 
+Reencontrei o meu caminho<br> 
+Vejo a costa, meus pés tocam o fundo<br> 
+Reconheço uma paisagem familiar<br> 
+Os tijolos vermelhos da minha casa<br> 
+O asfalto da minha rua, nossa bétula<br> 
+Tudo é diferente dessa paisagem de conto de fadas<br> 
 Me sinto bem.
 
 *Pause. Rewind.*
 
-Imagina,\ 
-Cena de sonho\ 
-Uma floresta até onde a vista alcança,\ 
-Formando com as montanhas um oceano verde\ 
-E a neve, a espuma das ondas\ 
-Ah, seria tão bom poder mergulhar ali\ 
-Nadar de novo e de novo\ 
-Explorar esse lugar mágico\ 
-Descobrir absolutamente todos os segredos\ 
-Tenho tempo de sobra pra isso mesmo\ 
+Imagina,<br> 
+Cena de sonho<br> 
+Uma floresta até onde a vista alcança,<br> 
+Formando com as montanhas um oceano verde<br> 
+E a neve, a espuma das ondas<br> 
+Ah, seria tão bom poder mergulhar ali<br> 
+Nadar de novo e de novo<br> 
+Explorar esse lugar mágico<br> 
+Descobrir absolutamente todos os segredos<br> 
+Tenho tempo de sobra pra isso mesmo<br> 
 Ainda mais sem *wifi* 
 
 *Pause. Fast forward.*
 
-Todos os dias são iguais\ 
-É sempre a mesma rotina\ 
-Acordar, café da manhã, leitura, almoço, soneca\ 
-Mais leitura, jantar, dormir…\ 
-O mesmo jogo de Zelda\ 
-Jogado e rejogado sem parar\ 
-De novo e de novo…\ 
-Pela enésima vez\ 
-É sempre a mesma coisa\ 
-Nada de novo, nenhuma mudança\ 
+Todos os dias são iguais<br> 
+É sempre a mesma rotina<br> 
+Acordar, café da manhã, leitura, almoço, soneca<br> 
+Mais leitura, jantar, dormir…<br> 
+O mesmo jogo de Zelda<br> 
+Jogado e rejogado sem parar<br> 
+De novo e de novo…<br> 
+Pela enésima vez<br> 
+É sempre a mesma coisa<br> 
+Nada de novo, nenhuma mudança<br> 
 Isso já tá ficando chato… 
 
 Tela preta. 

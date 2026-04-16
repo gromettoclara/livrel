@@ -1,0 +1,153 @@
+![Ariam et Abeer](../media/ariamabeer.png)
+
+<figure>
+  <audio controls src="../media/ariamabeer.mp4"></audio>
+</figure>
+
+*Adis* 
+
+Bonjour tout le monde, je m'appelle Adis Simidzija et vous écoutez le balado Voix parallèles. Ce balado nous plonge dans l'univers d'adolescentes et d'adolescents immigrants qui tentent de cultiver les terres québécoises pour mieux s'enraciner dans leur nouvelle société. Les voix que vous venez d'entendre, ce sont celles d'Ariam et de Abeer, toutes les deux arrivées de Syrie et établies au Québec depuis 2016. Avec elles, j'ai eu le privilège d'aborder différents sujets qui les touchent directement. De la première neige à la première journée d'école, d'anecdotes aux ambitions respectives de chacune. D'entrée de jeu, nous avons abordé le choc culturel que représentent les premiers jours au Québec.  
+
+*Abeer*
+
+Ben, je suis descendue de l'autobus. J'avais un peu peur puis j'ai vu de la neige. Je savais pas, je savais pas c'est quoi parce que j'ai jamais vu, presque jamais vu ça de ma vie. Je pensais un peu c'était la fin du monde, faque là je commencé à paniquer, j'ai commencé à pleurer puis je suis allée voir ma mère puis elle m'a rassurée parce que elle s'est informée avant de rentrer à Trois-Rivières. Puis elle m'a, elle nous a tout expliqué. Faque après ça j'ai compris, j'ai arrêté de pleurer. Mais j'étais quand même jeune dans ce temps-là.  
+
+*Ariam*
+
+Alors moi j'ai j'ai paniqué aussi. J'ai commencé à pleurer et quand j'ai touché la neige, ben j'avais les mains qui genre... je trouvais ça grave froid. C'était la première fois que je voyais ça. J'étais choquée. Je demandais à ma mère qu'est-ce que c'était. En ce temps là, j'avais pas de manteau, j'avais rien. En fait, j'avais juste mes vêtements, mais j'avais pas de manteau. J'ai demandé à ma mère qu'est-ce que c'était puis ça m'a expliqué puis là, j'allais mieux puis après je suis allée jouer dedans.  
+
+*Abeer*  
+
+Quand on est arrivés à l'hôtel, j'ai vu Ariam avec toutes ses sœurs, sa famille. Je l'ai pas aimée. Je sais pas, je la sentais pas. En fait, on se regardait mal, tout ça, on se jugeait mais on se le disait pas. On se jugeait dans la tête. Puis arrivé à l'heure du repas, je crois que c'était le soir, je crois. Ouais, le souper. Ouais, c'est ça. C'était le souper. Puis en fait le repas était grave pas bon. Le riz était pas très bien cuit. Il y avait sa sœur, sa petite sœur qui arrêtait pas de me regarder en même temps que je mangeais mes frites. C'était pas très bien cuit aussi, mais je mangeais ça quand même.  
+
+*Ariam*  
+
+On fait avec. Ben dès que je l'ai vue, je la trouvais quand même belle, mais je le disais pas, faque là j'ai décidé d'être plus belle qu'elle, après ça elle a décidé d'être plus belle que moi, puis on arrêtait pas de de s'habiller mieux. Dans ce temps-là, on savait pas c'est quoi le maquillage puis tout, on se mettait juste ce qu’il y avait. Des fois on trouvait de la farine, on en mettait un peu. On trouvait quelque part de la farine, une poudre, on s'en mettait un peu. On trouvait toujours quelque chose pour s'en mettre pour être plus belle. C'est la seule que je connaissais, faque on s'est rapprochées ensemble pour jouer ensemble parce qu'on connaissait personne d'autre que nous. 
+
+*Abeer*  
+
+Et on montait dans le même autobus. Il y avait Ariam et sa sœur. Puis à l'école, ça s'est bien passé. Tout allait bien, je les connaissais. Et mon premier sport à l'école c'était le soccer aussi, puis en même temps le basket.  
+
+*Ariam*  
+
+Je trouvais ça quand même facile. Vu qu'on était jeune, on apprend plus vite. Je trouvais ça facile parce qu'on commence par le début, les déterminants puis tout. Avec le temps, on a appris, à peu près en un an et demi, on parlait puis les gens nous comprenaient.  
+
+*Abeer*  
+
+Moi ça s'est bien passé. Je parlais avec tout le monde en français mais c'était pas très bien amélioré mais j'étais capable quand même de dire quelques mots en français.  
+
+*Adis*  
+
+Donc le choc de la première neige qui fait mal aux mains et les premiers jours d'école. Abeer et Ariam nous disent qu'on va toujours un petit peu vers celles et ceux qui nous ressemblent au début. Mais comment elles ont fait pour se faire un cercle d'amis qui dépasse les frontières de ce qu'elles connaissaient déjà ?  
+
+*Ariam*  
+
+Ben moi, c'était pas le soccer parce que elle était pas dans mon équipe, elle était dans un autre vu qu'elle était un peu moins jeune que moi. Puis souvent on devait se mettre en équipe de deux et moi je prenais toujours la fille qui reste à la fin. C'est comme ça je me faisais des amis, là. Je m'intégrais. Dans le match, je demande la passe ou je commence à parler, genre. 
+
+*Abeer*  
+
+Moi c'est en éduc, on faisait des équipes de soccer ou de basket. Avec la force de l'équipe, je me faisais des amis.  
+
+*Adis*  
+
+Comme on peut l'entendre, le sport a joué un rôle important dans le sentiment d'appartenance d'Ariam et d’Abeer et de leur nouvelle société. C'est l'élément qui leur a permis de se faire un nouveau cercle d'amis. Se sentent-elle aussi acceptées à l'école et dans la société en général que dans le sport ?  
+
+*Ariam*  
+
+En premier temps, ils m'ont acceptée comme je suis. Puis je les ai parlé de ma culture, il voulaient en savoir plus sur moi, faque je les ai parlé. Je leur faisais confiance, je les connaissais depuis quand même longtemps. Mais c'est après que genre quand on niaise beaucoup ensemble puis tout, ça commence à être un peu raciste.  
+
+*Abeer*  
+
+Moi je me suis fait beaucoup d'amis, mais pas québécois, mais plusieurs d'autres religions. J’ai beaucoup d'amis qui parlent espagnol. Ouais, des autres pays. Mais j'ai pas beaucoup d'amis québécois ou tout ça.  
+
+*Ariam*  
+
+Mais des fois, genre, quand je vais à l'école, il dit « Allô mon arabe, allô mon arabe préférée », mais quand il me traite de « Allô ma terroriste, retourne dans ton pays » Mais moi je lui réponds « OK, ben payez-moi un avion que je retourne dans mon pays. Ça va me faire un grand plaisir. » J'ai beaucoup beaucoup d'amis en série. Mes grands-parents sont là-bas, mes tantes, tous mes amis d'enfance. Faque peut-être revenir, peut-être pas revenir. 
+
+*Abeer*  
+
+Ouais, moi on m'accepte. Des fois, il y a des personnes qui sont un peu racistes, mais si je dis pas que je suis musulmane ou syrienne, ben ils savent pas que je suis musulmane et syrienne. Ils pensent que je suis québécoise ou d'autres choses. Mais si je le dis, ben il y en a qui vont commencer à être racistes, tout ça, envers moi.  
+
+*Adis*  
+
+Et comment se sentent ces deux jeunes femmes musulmanes lorsqu'elles entendent ce genre de commentaires de la part de leur camarades d'école ?  
+
+*Ariam*  
+
+Ben moi au début quand je les connaissais, ils m'ont acceptée. Mais après trois ou quatre mois, on commence à niaiser ensemble, je les connais plus, plus la confiance, faque ils commencent à prendre un peu trop la confiance avec moi, mais moi ça me dérange pas les gens qui me traitent de retourne dans ton pays, terroriste, c'est ton père qui a fait... je sais pas. Mais moi ça me dérange pas, ça me fait rien, j'ai des parents, ils font pas ce qu'ils disent, faque ça me dérange mange pas personnellement. Mais des fois je me sens un peu de trop, faque je me tasse un peu, je vais vers ma sœur, elle est dans le même secteur d'école que moi et je vais souvent la voir, parce que des fois je me sens de trop avec mes amis, quand il me traitent de terroriste. Moi ça me dérange pas, mais je me sens de trop là.  
+
+*Abeer*  
+
+Moi s’ils me traitent de terroriste ou d'autres choses, s'ils font souvent souvent ça puis qu’ils le font pas en blague, genre pour rire, ben je les demande d'arrêter, puis s'ils arrêtent pas, ben je vais voir d'autres personnes.  
+
+*Adis*
+
+Pour tous les jeunes que j'ai rencontrés dans le cadre de ce balado, la décision de partir pour le Québec était une décision unilatéralement imposée par les parents. Comment Ariam et Abeer ont-elles réagi lorsqu'on leur a annoncé leur départ ?  
+
+*Abeer*  
+
+Moi ils ont appelé mon père pour dire si vous voulez venir à Québec, au Canada ici. Mon père il a accepté puis il nous a annoncé, puis du coup moi je savais pas comment réagir. Je savais pas si là-bas c'était plus sécuritaire qu'en Syrie. J'avais un peu peur de perdre mes amis, mes grands-parents.  
+
+*Ariam*  
+
+En fait, ils nous ont appelés deux fois. La première fois ma mère elle était pas très à l'aise. Ils lui ont pas donné tous les détails du Canada. Mais ils l'ont appelée une deuxième fois à peu près deux mois plus tard, puis finalement ils ont donné les détails, qu'ils vont payer tout, puis ils vont trouver un logement, sécurité, qu'on va y aller à l'école. Puis ma mère a accepté, faque que la même nuit, on a fait un vote à main levée, puis la majorité qui l'a emporté pour qu'on vienne ici, faque c'est la même nuit ou la nuit du lendemain, on a fait nos bagages puis on a presque rien apporté, quelques vêtements, vraiment pas beaucoup. On a mangé vite fait puis on est allés à l'aéroport en cachette. Moi j'ai voté pour pas qu'on parte. J'avais beaucoup de plaisir même avec la guerre. C’est des moments vraiment de plaisir avec ma famille, mes grands-parents puis surtout avec mes amis. Puis je voulais pas partir. J'aimais trop la vie là-bas. J'étais un peu triste. J'ai pleuré un peu.  
+
+*Abeer*  
+
+En fait, moi je suis je suis contente qu’il a pris cette décision parce que je trouve qu'ici on est plus en sécurité que d'être en Syrie là-bas avec plein de guerres, plein de familles qui en souffrent, qui perdent des personnes qu'ils aiment. Du coup, moi je trouve qu'on a bien pris la décision de venir ici au Canada. On est beaucoup plus en sécurité.  
+
+*Ariam*  
+
+Ben, je préférais qu'on vienne ici parce qu’il nous faut un bon futur pour nous, puis il faut s'intégrer, il faut découvrir d'autres choses. J'ai beaucoup aimé l'addition, puis en même temps non, je voulais rester là-bas aussi. Faque moitié moitié.  
+
+*Adis*  
+
+La pandémie de Covid-19 a eu un impact dans la vie de tout le monde. Les ados sont probablement ceux et celles qui ont dû le plus s'adapter. Entre l'école qui ferme, l'interdiction de contact avec toute personne en dehors du clan familial, quels effets ont eu les restrictions sanitaires sur le rapport des deux amis aux autres ? 
+
+*Ariam*  
+
+J'ai l'habitude à y aller à l'école, jouer au soccer, voir mes amis chez eux, puis j'étais pas habituée trop sur les réseaux sociaux, téléphone, ordi, avec les profs et tout. Ça m'a un peu changée, mais en même temps on était plus raprochés en famille, on faisait des petites sorties ensemble puis pendant l'été, on faisait des pique-niques, on achetait des jeux, genre on était plus approchés.  
+
+*Abeer*  
+
+Moi non, ça va. C'est juste que j'avais plus l'habitude de me rapprocher de mes amis, de faire des câlins, de pas garder deux mètres de distance. J'ai en fait j'ai beaucoup aimé ça, mais quand le COVID est arrivé, j'avais trop l'habitude de pas m'approcher de mes amis, de porter des masques, d'être sur le Meet, de rester à la maison. Si tu as le Covid, tu dois rester une ou deux semaines à la maison. Puis aussi si tu as deux ou trois élèves de ta classe qui ont le Covid, toute ta classe se ferme pendant je sais plus combien de semaines. Mais ma mère elle tombe grave rapidement malade puis quand elle tombe malade, elle est grave fatiguée. J'ai beaucoup trop peur que qu'elle l’attrape parce qu'elle attrape beaucoup trop vite les maladies, le rhume, les grippes tout ça.  
+
+*Ariam*  
+
+Moi j'ai eu peur pour mes parents parce que j'ai attrapé la COVID. Je suis restée dans ma chambre. Je voulais pas même pas le donner à mes sœurs ou à mes parents. Je veux pas qu'ils tombent malades. Je veux pas qu'ils tombent malades, on sait jamais qu'est-ce qui peut arriver, faque je préfère pas le donner à personne, même pas une de mes amies ou un petit... je sais pas, je veux pas le donner à personne, faque je suis restée dans ma chambre.  
+
+*Adis*  
+
+Et maintenant que les choses reviennent tranquillement à la normale, quels sont les rêves et les ambitions d'Abeer et de Ariam ?  
+
+*Abeer*  
+
+Euh moi au début, je voulais devenir médecin, travailler dans les hôpitaux, tout ça, aider des jeunes, des vieux, des malades. Mais le temps passe puis maintenant je veux devenir policière.  
+
+*Ariam*  
+
+Ben en premier temps, je voulais être médecin. Genre j'aime aider les gens, je veux voir, je veux découvrir plus le corps humain, puis j'aime ça aider les autres, rendre service puis tout. Euh deuxième, j'aimerais devenir - ça c'est un rêve vraiment fou - travailler dans l'astronomie ou devenir astronaute, parce que j'aime beaucoup l'espace. Je veux y aller voir qu'est-ce qu'il y a là-haut. Je veux pas voir sur les réseaux, on sait jamais. Je vais aller voir par moi-même.  
+
+*Adis*  
+
+Si elles pouvaient revenir en arrière et s'adresser aux jeunes filles arrivées en 2016 qu'elles étaient, qu'est-ce qu'elles leur diraient ?  
+
+Ariam 
+
+Je lui dirais que tes parents, ils ont pris une bonne décision de t'amener ici. D'avoir un bon avenir, puis essayer de faire le mieux que je peux pour y arriver à mes rêves, mes rêves fous.  
+
+*Abeer*  
+
+Je lui dirais que mes parents aussi ont bien fait de prendre la décision de venir ici au Canada. Découvrir de nouvelles choses ici, de faire des activités, tout ça.  
+
+*Adis*
+
+Finalement, qu'est-ce qu'elles voudraient dire à Ariam et à Abeer qui écoutent le balado dans 25 ans ?  
+
+*Ariam*  
+
+Je vais lui dire que tu vas, tu y es arrivée, demain, tu vas y aller dans l'espace puis tu vas découvrir plus l'espace au lieu des réseaux sociaux. Puis je vais lui dire bravo. Bravo pour tout ce que tu as fait pendant ta vie puis continue à aider les gens, puis sois une bonne personne.  
+
+*Abeer*  
+
+Je luis dirais que j'ai bien fait de prendre la décision de choisir un de mes plus grands rêves. Que ça soit la médecine, la police ou être joueuse de basket et de continuer de faire d'efforts toute ma vie. 

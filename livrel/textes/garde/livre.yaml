@@ -70,8 +70,19 @@ toc:
   - parttitle: Montréal
   # si pas de partie, indiquer le titre du chapitre suivant
     content:
-      - id: creveroeil
+      - id: plafond
       - id: cassette
+      - id: terrainvague
+      - id: avant
+      - id: creveroeil
+  - parttitle: Cuba
+    content: 
+      - id: gabriela
+      - id: flavia
+      - id: leyna
+  - parttitle: Brésil
+    content: 
+      - id: ariamabeer
   #- parttitle: Brésil
   #- parttitle: Cuba
   #- parttitle: Trois-Rivières

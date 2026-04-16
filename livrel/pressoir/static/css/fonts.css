@@ -1,20 +1,20 @@
 @font-face {
-    font-family: 'averiaseriflibre-light-custom';
-    src: url('./fonts/averiaseriflibre-light.woff2') format('woff2');
+    font-family: 'clack-italic';
+    src: url('./fonts/otf-woff2/Clack-LightItalic_otf.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
-    font-family: 'averialibre-bold-custom';
-    src: url('./fonts/averialibre-bold.woff2') format('woff2');
+    font-family: 'clack-bold';
+    src: url('./fonts/otf-woff2/Clack-Bold_otf.woff2') format('woff2');
     font-weight: bold;
     font-style: normal;
     font-display: swap;
 }
 @font-face {
-    font-family: 'averialibre-bold-custom';
-    src: url('./fonts/averialibre-bolditalic.woff2') format('woff2');
+    font-family: 'clack-bolsitalic';
+    src: url('./fonts/otf-woff2/Clack-BoldItalic_otf.woff2') format('woff2');
     font-weight: bold;
     font-style: italic;
     font-display: swap;

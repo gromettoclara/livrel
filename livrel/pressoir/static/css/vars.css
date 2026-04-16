@@ -1,33 +1,48 @@
 /* Beware: Safari does not handle well relative paths in CSS vars.
    See https://bugs.webkit.org/show_bug.cgi?id=190807 for reference. */
+
+/* Google Fonts — Playfair Display + Libre Baskerville */
+@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
 :root {
-    --font-family: 'averiaseriflibre-light-custom';
-    --font-family-headers: 'averialibre-bold-custom';
-    --body-background: #fff;
-    --body-color: #432c2c;
+    --font-family: 'Victor mono', monospace;
+    --font-family-headers: 'clack-italic';
+    --font-base: 'Victor mono', monospace;
+
+    --ink:   #1a1108;
+    --paper: #f8f7f5;
+    --accent: OrangeRed;
+    --muted: #9e8e7a;
+    --rule:  #c8b89a;
+
+    --body-background: var(--paper);
+    --body-color: var(--ink);
 
     --logo-position: no-repeat left center/100%;
-    --logo-url: url("./img/pressoir-logo.png");
-    --small-logo-url: url("./svg/pum-logo-couleur.svg");
+    --logo-url: url("./img/pressoir-logo.png"); /* ---------- à renplacer ---------- */
+    --small-logo-url: url("./svg/pum-logo-couleur.svg"); /* ---------- à remplacer ---------- */
 
-    --balloon-color: #686868;
-    --balloon-color-font: #e9ecef;
+    --balloon-color: var(--accent);
+    --balloon-color-font: #f5f0e8;
     --balloon-font-size: .9rem;
 
     --termeenrichi-background-image: url("./svg/plus.svg");
     --termeenrichi-background-image-expanded: url("./svg/minus.svg");
 
-    --header-background-color: #eaeaea;
-    --header-border-color: #f00;
-    --header-color: #000;
+    --header-background-color: #eeebe4;
+    --header-border-color: var(--accent);
+    --header-color: var(--ink);
     --header-dropdown-background: 99% center no-repeat url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='35' height='35' viewBox='0 0 24 24' fill='none' stroke='currentColor' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'><path d='M6 9l6 6 6-6'/></svg>");
 
-    --toc-border-color: #b3b3b3;
-    --toc-border-active-color: #000;
+    /* TOC */
+    --toc-border-color: var(--rule);
+    --toc-border-active-color: var(--accent);
 
-    --contenuadd-border-color: #b3b3b3;
-    --contenuadd-background: #eaeaea;
+    /* Contenu additionnel */
+    --contenuadd-border-color: var(--rule);
+    --contenuadd-background: #ede7d9;
 
-    --footer-background-color: #eaeaea;
-    --footer-border-color: #f00;
+    /* Footer */
+    --footer-background-color: #eeebe4;
+    --footer-border-color: var(--accent);
 }

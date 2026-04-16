@@ -25,8 +25,7 @@ $endif$
 <meta name="DC.language" content="$lang$" />
 <meta name="DC.date" class="completeDate" content="$book.date$" />
 <meta name="DC.date" class="year" content="$book.year$" />
-   <meta name="DC.rights" content="$book.rights$" />
-
+<meta name="DC.rights" content="$book.rights$" />
 
 $if(chapter.url)$
 <meta name="url" content="$chapter.url$" />
@@ -45,7 +44,6 @@ $endif$
 $if(book.isbnepub)$
 <meta name="DC.identifier" class="isbn" content="urn:ISBN:$book.isbnepub$" />
 $endif$
-
 
 <!--Auteur de l'article -->
 $if(chapter.authors)$
@@ -72,8 +70,6 @@ $if(chapter.keyword_en)$
 <meta name="keywords" xml:lang="en" lang="en" content="$for(chapter.keyword_en_stripped)$$chapter.keyword_en_stripped$$sep$, $endfor$" />
 $endif$
 
-
-
 <!--  traducteur avec specification MARCREL -->
 $if(chapter.translator)$
 $for(chapter.translator)$
@@ -81,9 +77,6 @@ $for(chapter.translator)$
 <meta name="MARCREL.trl" content="$chapter.translator.forname$ $chapter.translator.surname$" />
 $endfor$
 $endif$
-
-
-
 
 <!-- schema citation : Indexation pour Google Scholar  -->
 
@@ -123,14 +116,10 @@ $if(book.pdfurl)$
 <meta name="citation_pdf_url" content="$book.url$$book.pdfurl$">
 $endif$
 
-
-
 <!--PRISM schema - Publishing Requirements for Industry Standard Metadata
 Schema specialise pour les revues et journaux-->
 <meta name="prism.url" content="$chapter.url$"/>
-
 <meta name="prism.corporateEntity" content="$book.publisher$"/>
-
 <meta name="prism.publicationDate" content="$book.date$"/>
 
 $if(book.isbnprint)$
@@ -140,7 +129,6 @@ $elseif(book.isbnnum)$
 $endif$
 
 <meta name="prism.teaser" content="$chapter.abstract_fr_stripped$"/>
-
 
 <!--RDFa pour ajout des metadonnees DC-->
 <meta property="dc:format" content="text/html" />
@@ -167,19 +155,15 @@ $for(chapter.authors)$
 <meta property="dc:creator" content="$chapter.authors.forname$ $chapter.authors.surname$" />
 $endfor$
 
-
 <meta property="dcterms:abstract" xml:lang="fr" lang="fr" content="$chapter.abstract_fr_stripped$" />
 $if(chapter.abstract_en)$
 <meta property="dcterms:abstract" xml:lang="en" lang="en" content="$chapter.abstract_en_stripped$" />
 $endif$
 
-
 <!--Fin des metadonnees dans le Head-->
 
 <!-- Social network -->
-
 <meta property="og:type" content="bookSection" />
-
 <meta property="og:url" content="$chapter.url$" />
 <meta property="og:title" content="$chapter.title_stripped$" />
 <meta property="og:description" content="$chapter.abstract_fr_stripped$ " />
@@ -229,7 +213,7 @@ $for(include-before)$
 $endfor$
 
 <header class="main">
-  <a  href="$if(book.url_publisher)$$book.url_publisher$$else$/$endif$" class="logo" title="Accéder à l’accueil"></a>
+  <a href="$if(book.url_publisher)$$book.url_publisher$$else$/$endif$" class="logo" title="Accéder à l'accueil"></a>
   <div class="title">
     <h1><a href="index.html">$book.title_html$</a></h1>
     <h2><a href="$chapter.url_relative$" title="Naviguer directement entre chapitre">$chapter.title_short_html$</a></h2>
@@ -285,109 +269,28 @@ $endif$
 
 </header>
 
-
-<!-- <div class="toc"></div> -->
-
 <article>
-<header>
-<!-- $if(book.has_search)$
-  $if(chapter.is_not_search)$
-    <form action="recherche.html" method="get" class="searchnote">
-      <p>
-        <input id="input-search" type="search" name="q"
-          aria-label="Termes de votre recherche"
-          aria-describedby="indexation-infos" required>
-        <input type="submit" value="Chercher">
-      </p>
-    </form>
-  $endif$
-$endif$ -->
-$if(chapter.title)$
-<h1 class="title">$chapter.title_html$</h1>
-$endif$
-$if(chapter.subtitle)$
-<p class="subtitle">$chapter.subtitle_html$</p>
-$endif$
-<!-- $for(chapter.authors)$
-  $if(chapter.authors.display)$
-  $else$
-    $if(book.collective)$
-      <p class="author">
-        $if(chapter.authors.iddescription)$
-          <a href="$chapter.authors.iddescription$">$chapter.authors.forname$ $chapter.authors.surname$</a>
-        $else$
-          <u>$chapter.authors.forname$ $chapter.authors.surname$</u>
-        $endif$
-        $if(chapter.authors.orcidurl)$
-          <a href="$chapter.authors.orcidurl$"><img height="20px" width="20px" src="../static/svg/logo_orcid.svg"></a>
-        $endif$
-      </p>
+  <header>
+    $if(chapter.title)$
+    <h1 class="title">$chapter.title_html$</h1>
     $endif$
-  $endif$
-$endfor$ -->
-$if(chapter.translators)$
-  $for(chapter.translators)$
-    <p class="translator">Traduit par
-      $if(chapter.translators.iddescription)$
-        <a href="$chapter.translators.iddescription$">$chapter.translators.forname$ $chapter.translators.surname$</a>
-      $else$
-        <u>$chapter.translators.forname$ $chapter.translators.surname$</u>
-      $endif$
-      $if(chapter.translators.orcidurl)$
-        <a href="$chapter.translators.orcidurl$"><img height="20px" width="20px" src="../static/svg/logo_orcid.svg"></a>
-      $endif$
-    </p>
-  $endfor$
-$endif$
-$if(chapter.blockcitation)$
-<section><p><label for="mn-demo" class="margin-toggle">&#8853;</label>
-<input type="checkbox" id="mn-demo" class="margin-toggle"/>
-  $if(chapter.url_traduction)$
-    <span class="marginnote url-trad">$chapter.url_traduction$</span>
-  $endif$
-  <!-- <span class="marginnote infochapitre">
-    $for(chapter.authors)$
-      $chapter.authors.forname$ $chapter.authors.surname$$sep$,
-    $endfor$,
-    «&nbsp;$chapter.title_html$&nbsp;»,
-    $if(chapter.translators)$
-      (traduit par
-      $for(chapter.translators)$
-        $chapter.translators.forname$ $chapter.translators.surname$$sep$,
-      $endfor$),
-    $endif$
-    $if(book.collective)$
-      dans
-      $if(book.authors)$
-        $for(book.authors)$
-          $book.authors.forname$ $book.authors.surname$$sep$,
-        $endfor$ (dir.),
-      $endif$
-    $endif$
-    <em>$book.title_html$</em> (édition augmentée), $book.publisher$, $book.place$, $book.year$, ISBN&nbsp;: $book.isbnnum$, $chapter.url$.<br>
-    version $book.version$, $book.day$/$book.month$/$book.year$<br/>
-    $book.rights$
-  </span> -->
-</p></section>
-$endif$
-</header>
-<main>
-<section>
+  </header>
 
-  $body$
-
-</body>
-
-  $for(chapter.authors)$
-    $if(chapter.authors.presentation)$
-      <h3 id="biographie-$chapter.authors.surname$">$chapter.authors.forname$ $chapter.authors.surname$</h3>
-      <p>$chapter.authors.presentation$</p>
-    $endif$
-  $endfor$
-
-</section>
-</main>
+  <main>
+    <section>
+      $body$
+    </section>
+    <section class="marginauthor">
+      $for(chapter.authors)$
+      <h3>
+        $chapter.authors.forname$ $chapter.authors.surname$
+      </h3>
+      $chapter.authors.presentation$
+      $endfor$
+    </section>
+  </main>
 </article>
+
 <footer>
   <nav>
     <ul>
@@ -417,8 +320,6 @@ $endfor$
     let query = new URLSearchParams(window.location.search).get('q')
     if (!query) return
 
-    // Remove previous marked elements and mark
-    // the new keyword inside the context
     markInstance.unmark({
       done: function(){
         markInstance.mark(query)

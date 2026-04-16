@@ -1,0 +1,198 @@
+Plus rien n’est pareil, tout a changé : mes parents, ma maison, mes envies, mes goûts… moi. D’abord, tout était beau, paisible, plein de vie ; puis tout est devenu gris. Ce qui avait été à moi me glissait des mains, : la vie comme je la connaissais, et cette rencontre fugace avec la réalité. 
+
+Je me rappelle ma quatrième année, : j’étais excitée à l’idée de porter un autre uniforme que le foulard bleu. Le foulard rouge ! Quelle émotion ! Je me trouvais grande, : je grandissais. Encore deux ans, et le collège. Il n’y avait pas d’interruptions, : j’avais en moi l’élan d’un grand avenir ; mais j’étais loin d’imaginer qu’une pandémie allait transformer ma vie. Une pandémie ? 
+
+— C’est quoi, maman ? ai-je demandé, inquiète, à cet âge où l’innocence n’arrive pas à comprendre les dangers. 
+— C’est l’apparition d’une maladie qui se propage partout, m’a-t-elle répondu, brièvement. 
+
+Et si je ne comprenais déjà pas avant, là je comprenais encore moins. Pourtant les rues ont commencé à se vider, des lieux ont fermé, les frontières ont été limitées, et le monde a commencé à se figer. Étrangère à tout ça, j’ai pensé que ce n’était rien de si important car: pour y mettre fin, il y avait les médecins ; tout serait plus facile, plus simple, une question de temps. La vérité, c’est qu’il n’y a plus eu d’école, plus de sorties, plus de joie : l’univers s’est éteint, et les voix aussi. Le quotidien est devenu autre : masques, lavage des mains sans arrêt, s’éloigner des autres d’un mètre cinquante. Des gens, connus ou non, sont partis sans revenir. On aurait dit un cauchemar. On aurait dit ? C’en était un, en réalité. 
+
+J’ai inventé des jeux, des nouveaux dessins, mais enfermée. Sans visites, sans aller voir personne, en me disant que ça finirait bientôt. Mais ça a duré longtemps. Être entre quatre murs, au début, c’est correct. Après, ça devient insupportable. 
+
+J’ai dansé. J’avais Je me suis tellement remplie des envies de tellement envie de marcher que je marchais dans la maison, : dans ma chambre, partout. Et je me répétais tout le temps : « ça va finir, ça va finir ». Mais c’était comme un labyrinthe, comme celui du Minotaure, où il aurait fallu que le fil magique d’Ariane apparaisse. 
+
+Les jours passaient et ils devenaient immenses. Désespérants. Routines sans fin, pendant que cette sale maladie faisait ce qu’elle voulait, laissant la mort et la douleur derrière elle, déchirant des vies qui, comme moi, se disaient qu’un jour elles remettraient les pieds dehors, sur les rues où elles avaient déjà marché. 
+
+Je passais des heures devant le miroir, juste pour me rappeler que j’étais encore là, saine et sauve, avec les miens. 
+
+— Je suis correcte. Je suis en santé, me disais-je, me . Et je répétais-je, : moi, je suis ici… en train de chercher du bruit au milieu de tout ce silence. 
+
+J’ai commencé à planifier plein de choses : depuis ne pas prendre de poids jusqu’à lire au moins la moitié des livres de la bibliothèque de maman. Ça, je n’y suis pas arrivée, même si j’en ai lu quelques-uns. Jour après jour, j’attendais que tout change. Je rêvais de revoir la mer, de revoir mes amis, de me promener… d’être heureuse. Le temps passait avec une lenteur étrange, et c’était de plus en plus difficile d’accepter que l’enfermement était inévitable, parce que c’était la seule façon d’éviter la contagion. 
+
+En réalité, j’étais recluse, étouffée dans ma propre chambre, avec un vide profond qui se creusait en moi. Il n’y avait aucun moyen de sortir. J’étais confinée, enfermée, coincée au fond d’un puits sans fond. Je devenais folle. J’avais besoin d’aide, tout de suite, sinon j’allais exploser. 
+
+— Qu’est-ce qui se passe, maman ? suppliais-je. 
+
+— Pourquoi tu pleures ? demandaist-elleje, avec une certaine paniquedésespoir. 
+
+— Qu’est-ce qui se passe, papa, pourquoi tu es si stressé ? 
+
+Et à mes questions, l’évitement l’évasion était la seule réponse, pendant des jours. 
+
+— Qu’est-ce qui se passe, au juste ? 
+
+Leurs visages disaient tout et rien, comme des romans feuilleton faits de questions et de réponses, de ceux qui te laissent en suspens, où tu te sens emportée par un ouragan de problèmes. 
+
+Ma relation avec mes frères et sœurs était… particulière. Ma sœur, une jeune femme très douce et simple, étudiante en médecine, intelligente. Mon frère, plus jeune qu’elle… mais qu’est-ce qui se passait avec lui ? Pourquoi tout le monde s’inquiétait pour lui ? Pourquoi on me laissait de côté ? On l’aimait plus que moi, non ? C’était le préféré. Cette idée me tuait à petit feu, entre la pandémie, les jours froids, et toutes ces choses cachées, jamais dites. Je n’avais plus d’issue : c’était fini. Il fallait que je sache, coûte que coûte. 
+
+Une nuit, je l’ai entendu parler tout seul. J’avais tellement sommeil que je me suis couchée en me disant que ce n’était rien, que ça n’avait pas d’importance. Puis, d’un coup, la lumière s’est allumée. : c’étaitC’était mon frère, debout près de moi. Il m’a demandé ce que je faisais. 
+
+— Je vais dormir, lui ai-je dit. Il est tard, dors, maintenant. 
+
+Je l’ai répété, mais il m’a répondu qu’il voulait me parler. Mon frère ne me parlait jamais. Je me suis préparée à l’écouter. Il s’est assis dans le salon et il a commencé à parler. Il disait des choses sans sens, des choses que je ne comprenais pas sur le moment… mais que je comprendrais plus tard. 
+
+Cette nuit d’insomnie a été interminable. Cette conversation avec ce garçon de seize ans qui disait être mon frère… comment l’oublier ? C’était terrifiant. Sa voix, son visage, ses yeux, : rien n’était pareil. Je voulais partir. Je voulais dormir. Le sommeil me tombait dessus, mais lui insistait, encore et encore, avec une phrase — la même — qu’il allait répéter pendant quatre ans, et qui, jusqu’à aujourd’hui, me hante. 
+
+Le soleil commençait à effleurer les fenêtres de la maison. Il faisait déjà jour. Est-ce que cet enfer n’allait jamais finir ? Et puis la pire partie est arrivée. Ou presque. 
+
+En plein jour, ce jeune que je ne reconnaissais plus m’a fait sortir sur la terrasse. Les murs de cette maison sont témoins de tout ce qui se passait derrière le décor. Contre ma volonté, je suis sortie, de mauvaise grâce. La lumière était violente ; je me cachais le visage sans arrêt. Il n’arrêtait pas de parler, jusqu’à ce qu’il arrive à une conclusion. Je me disais, : c’est peut-être une blague de très mauvais goût… juste une seconde, une seconde de lucidité. 
+
+— Je suis Dieu, a-t-il affirmé. 
+
+Cette phrase m’a figée. De quoi parlait-il ? Le christianisme avait toujours été présent dans ma vie, mais malgré ça, je ne comprenais pas. Et moi, je faisais juste oui de la tête… ce qui allait empirer les choses. J’étais sonnée, je n’avais pas dormi de la nuit. 
+
+Je me secouais et il se répétait, encore et encore : « Je suis Dieu », presque en criant. Il répétait. Il disait qu’il ne voyait pas le péché, et qu’il pouvait faire de moi ce qu’il voulait. 
+
+La fille que j’étais à ce moment-là ne comprenait pas. Je me suis enfoncée dans une angoisse à moi, dans des souvenirs que je ne veux pas voir revenir. Il y a des mots que je ne veux pas me rappeler, : ils me coupent le souffle, ils me dessèchent l’âme. 
+
+Pendant le confinement, il s’est passé des choses sombres, désagréables. Des notes graves, fausses, du chaos total. Des choses qui laissent des blessures qu’on ne répare pas, : douleur, absence, cicatrices pour la vie. Quelle douleur. 
+
+J’étais terrifiée. Je voyais l’ampleur de ce qui arrivait et je ne savais pas comment affronter ça, ni ce qui s’est passé cette nuit-là, ni ce qui allait se passer les nuits suivantes, ni même ce qui était en train de se passer. J’avais l’impression d’avoir un couteau dans la gorge. J’avalais ma salive sans arrêter. Des souvenirs passaient en flashs, comme des décharges électriques. 
+
+ 
+
+Du reste de la journée, je me souviens à peine, : je me rappelle seulement, vaguement, qu’oncomment on emmenait mon frère. Enfin… pouvoir respirer un peu., enfin se reposer.  
+
+Après ça, moi… j’ai regretté chaque moment où j’avais été heureuse, parce que quelque chose dans ma tête me disait que je devais être forte. 
+
+Les lumières se sont allumées et le rideau s’est levé. : Mmesdames et messieurs, voici l’histoire de ma vie. 
+
+L’invité tant attendu est arrivé. Il s’est rendu à un sommeil profond, et moi je le regardais du coin de l’œil. Le soleil tombait, et j’avais de plus en plus peur à chaque seconde qui passait. Et même comme ça, je ne pouvais pas empêcher la nuit d’arriver. Quand je dormais, je me sentais observée. Mon esprit faisait des gribouillis pour ne pas penser. 
+
+Malgré tout, j’avais la compagnie de ma sœur… sauf qu’elle n’était pas là. J’avais une peur irrationnelle, mais je continuais à vivre pour rêver, parce que rêver, c’est vivre endormie dans un monde de réalité vide. 
+
+Le temps se figeait. Je courais, mais je n’arrivais à rien, : ni à une vérité, ni à une réponse, ni à une conclusion… rien. 
+
+J’ai commencé une drôle d’amitié avec la peur. J’avais besoin de parler, mais les mots ne sortaient pas de ma bouche. Je riais dehors avec les gens, mais au fond je ne savais même plus si ce sentiment-là était vrai. 
+
+La COVID avançait. Ça me rendait plus triste, plus déçue. Je perdais l’intérêt pour tout. Et je me demande encore comment je suis là. L’inquiétude restait : qu’est-ce que j’allais devenir ? Ma maison ne semblait plus la même. Et la nuit, j’avais peur. J’ai commencé à déranger le sommeil de mes parents, avec n’importe quelle excuse, juste pour réussir à calmer ma peur. 
+
+Mon père est un homme avec une forte personnalité, un caractère solide, mais ça ne l’empêche pas d’être gentil et affectueux. Il est calme. J’adore être près de lui, et c’est pour ça que je me glissais de son côté, dans le lit. Ma mère, elle, est nerveuse, sérieuse, réservée. Elle n’est pas comme cette figure paternelle que j’admire autant. Elle dit que je suis rebelle. Je suis rebelle parce que je refuse d’être esclave de règles absurdes imposées par la société. 
+
+Il y avait tellement d’énigmes dans cette famille, et plus le temps passait, plus il y en avait. Dans la chambre du fond, j’entendais des murmures : de quoi parlaient-ils ? Ça devait être grave. 
+
+ 
+
+Dans la chambre du fond, on entendait des murmures. De quoi parlaient-ils ? Ça devait être quelque chose de gros. 
+
+— Le médecin a dit qu’il était un drogué… ai-je entendu. 
+
+— …? 
+
+— Ça faisait des années qu’il l’avait déjà « dans le sang », a dit mon père, puis il a demandé à ma mère : la docteure a dit à quel âge ? 
+
+— Depuis quatorze ans, probablement, a répondu ma mère. 
+
+De quoi parlaient papa et maman ? Je me le demandais. Un éternuement m’a trahie, et j’ai dû apparaître d’un coup, comme si le bruit m’avait allumée. Je fixais mes parents. 
+
+— Maman, c’est quoi, un drogué ? ai-je demandé. Et j’ai enchaîné : et pourquoi on ne sort toujours pas se promener ? 
+
+Je ne savais pas comment ils allaient me répondre… et eux non plus. Ils avaient l’air de chercher une réponse « correcte ». Je suis sortie de la chambre sans qu’aucune de mes questions ne soit réglée. 
+
+Même si j’aimais mon frère, je ressentais… de la peur ? Pourquoi j’aurais peur de mon frère ? Violent. C’est ça, : il allait devenir violent, et ça devenait vraiment inquiétant. 
+
+Pendant ce temps, les jours de pandémie continuaient. Et à la liste des malheurs s’en ajoutait un autre, : le nôtre. Comme si c’était une blague cruelle. Plus il y avait de victimes, pire étaient l’enfermement, la douleur, la souffrance. 
+
+La pandémie de la COVID-19, causée par le coronavirus SARS‑CoV‑2, apparu en Chine puis propagé au monde entier en quelques semaines, et qui, en quelques mois, parcourait déjà la planète. Des millions de contaminations, plus d’un million de morts en peu de temps. Une pandémie catastrophique, avec des séquelles encore inconnues, pas de vaccins au départ, puis des vaccins dont on ne connaissait pas encore les risques possibles plus tard, comme des effets secondaires. La distanciation et l’isolement social, les systèmes de santé au bord de l’effondrement dans des pays riches de l’Europe soi-disant si cultivée, la contraction de l’économie, la paralysie du tourisme et des échanges commerciaux partout; : tant de conséquences économiques et sociales, en plus de celles sur la santé humaine. Des enterrements en fosses communes, et la création accélérée de nouveaux espaces pour les morts. Un impact triste, partout dans le monde ; et aussi à Cuba. Les États-Unis et le Brésil, des foyers de transmission en Amérique latine. Moi et ma famille, sans contagion, mais une pandémie terrible nous secouait, : une pandémie qui laisse des traces indiscutables, d’un impact impossible à mesurer. Qu’est-ce que la vie allait nous réserver ? 
+
+L’hôpital où on l’a emmené était loin. Je ne le voyais pas, et, pour moi, c’était un soulagement. Il avait déjà été dans d’autres hôpitaux, à cause de différents problèmes de santé. C’était un jeune avec beaucoup de maladies, et il avait toujours été le centre de l’attention dans la famille. Quand j’étais plus petite, ça me donnait l’impression qu’on m’oubliait, comme si on l’aimait plus que moi, sans que je comprenne — parce que j’étais trop jeune — que c’était normal, : ma santé, à moi, physique et mentale, allait bien… au moins à ce moment-là. La sienne, non. Lui, il allait mal, il était déréglé. 
+
+Je ne me souviens plus exactement… Deux fois, je crois. Deux fois, on m’a injecté les substances dont dépendrait ma vie si jamais j’attrapais cette maladie mortelle. C’était une chance. Le vaccin cubain. Après des études menées en urgence sur différents groupes, quand ce n’était encore qu’un candidat-vaccin ; d’abord sur les personnes à risque, puis avec l’autorisation pour les plus de 65 ans, puis pour toute la population adulte, et enfin pour les mineurs, l’âge que j’avais à ce moment-là. Ah… tant mieux. Comme ça, je pourrais revoir mes soi-disant camarades de classe. 
+
+Et le jour est arrivé. Le jour rêvé, : sortir dans la rue, voir l’école, voir mes camarades, retrouver le temps passé, les visages que mon esprit avait rangés quelque part. Un petit, mais immense rayon d’espoir m’a envahie. Et pourtant, au fond, il y avait une chose qui me pesait. 
+
+Comment est-ce que j’allais reparler, après tout ce temps ? Cette question me martelait. 
+
+C’est triste de revoir tes amies et tes amis à distance, avec le masque qui cache le visage, sans pouvoir donner un baiser ni même une poignée de main. Ne pas toucher, ne pas sentir la peau de l’autre au bout des doigts. Ne pas voir un sourire, une expression. Ne pas laisser sortir la joie, ne pas recevoir l’affection de l’autre à travers une étreinte. J’ai parlé avec peu de monde. Il y avait une barrière, : les éducateurs, le personnel de santé, les familles. Il y avait de la joie et de la tristesse en même temps. Un mélange bizarre. 
+
+— Vanessa ! ai-je appelé une petite amie de classe. 
+
+Elle a fait un signe de salut à distance, et le bras de sa mère a formé une barrière pour l’empêcher de s’approcher. Une réponse en un seul mot. 
+
+— Gabriela ! 
+
+Et ça se répétait avec les autres, pendant qu’on entrait dans l’école, devenue un centre de vaccination. L’infirmière t’accueillait, prenait tes informations, remplissait la carte de vaccination. Après, tu passais au médecin, : questions qui vont et viennent, l’historique des maladies, la pression, la température, etc. Puis venait la piqûre, : le moment où on prépare la seringue, où l’on voit l’aiguille entrer dans le flacon qui contient le vaccin. 
+
+— Remonte ta manche, disait l’infirmière, en stérilisant aussitôt la peau. Et l’aiguille entrait sans presque faire mal. Puis elle disait : voilà. Tu es vaccinée. 
+
+Tout était organisé, rapide. C’était la première dose. Ce jour-là, on avait tous comme un frein en nous, : saluts à distance, et la peur qui assombrissait l’air. 
+
+— Marcos ! 
+
+Sa réponse était un geste, et rien d’autre, très bref. 
+
+— Gabriela ! 
+
+Et avec son geste, il m’a envoyé un baiser de la main, depuis sa bouche couverte par le masque. 
+
+Comme ça, à peu près, les scènes se répétaient. Même quand on était assis à attendre, sur des chaises espacées de plus d’un mètre et demi, en rangées et en lignes. : l’ambianceL’ambiance était sinistre. 
+
+— Leyna ! ai-je appelé une bonne amie avec qui je parlais au téléphone plusieurs fois par jour. 
+
+Mais la directrice et un autre adulte n’ont pas permis qu’on s’approche. 
+
+— Vous ne pouvez pas vous rapprocher. Il faut garder vos distances et rester silencieux, a dit l’enseignante. 
+
+Je ne voulais pas avoir l’air hypocrite, ni donner l’impression que je m’en fichais. Après tout, c’étaient mes amis. Mais certains… je ne me rappelais même plus leurs visages. Enfin, certains d’entre eux. Et peut-être que ce n’était pas assez longtemps pour dire ça comme si des années avaient passé. Sauf que j’étais tellement occupée à me battre à l’intérieur, dans ma propre tempête, que, ce jour-là, c’était comme si ma mémoire avait décroché. 
+
+Cette sortie-là, c’était ma première sortie. La première dose du vaccin Abdala qui m’a immunisée. Mon premier face-à-face avec mes camarades de classe et avec l’école. J’avais l’impression que des années s’étaient écoulées, alors que ce n’était pas vraiment le cas. 
+
+Je ne savais pas ce qu’ils faisaient, si tout allait bien pour eux, ou si je me racontais des histoires. J’espérais que tout le monde n’avait pas traversé autant de malheurs. Dans ma famille, personne n’a été malade de la COVID‑19. Mais on a subi les conséquences d’une autre maladie, plus grande, plus cruelle, silencieuse elle aussi, et qui détruit la capacité d’être. Je ne savais pas combien de camarades avaient été malades, ni si leurs parents ou leurs proches l’avaient été. Je ne savais pas qui était mort, ni comment ils vivaient après, avec la pandémie, et avec la situation économique qui devenait chaque jour plus écrasante dans le monde — et très dure à Cuba, pour chaque famille. Tout me tombait dessus. Je crois que j’étais malade à force de trop penser. 
+
+C’était étrange, les cours à la télévision. Ce n’était pas pareil. Même si, d’une certaine façon, c’était “confortable”, c’était quand même ennuyeux. Je ne les regardais jamais, ou presque. Pour moi, ce n’étaient que des “télé-cours”. Je me trouvais intelligente, et, même si je me rappelais la maîtresse que j’avais eue jusqu’au début de la pandémie, je me fiais plus à moi-même et à mes lectures qu’à ces cours-là. Mes parents ne savaient même pas que je n’y prêtais pas attention. Regarder la rue depuis le point le plus haut de ma maison, c’était la seule manière de me sentir un peu plus libre. 
+
+J’entendais parler tout le temps de vaccins. Je n’y connaissais rien, et ce n’est pas comme si ça m’intéressait tant que ça. À partir de la première dose, quelque chose a changé dans ma tête. J’avais eu d’autres choses plus importantes à l’esprit, comme essayer de me rapprocher de ma sœur. Par moments, je pensais qu’on ne m’aimait pas. Maintenant, je sais que ma sœur était juste une adolescente frustrée, qui, comme moi, voulait que tout ça s’arrête. J’avais une fixation immense sur elle. Et je crois qu’à ce moment-là, il fallait mettre les différences de côté : malgré tout, elle était mon endroit sûr. 
+
+Quelle prouesse, pour un pays, de créer ses propres vaccins. De toute façon, c’était ce qu’il y avait de plus nécessaire. Oui… à ce moment-là, je ne comprenais pas l’importance d’un vaccin. Je n’en savais rien, à part les vaccins qu’on nous met depuis qu’on est petits, chaque année, ou ceux qu’on doit prendre. Je me rappelle même du bonbon-vaccin. Oui : à Cuba, on immunise les enfants très tôt contre différentes maladies, celles qui, il y a longtemps, causaient beaucoup de morts chez les bébés et les petits. 
+
+L’importance du vaccin contre la COVID‑19 tenait aussi au fait que Cuba ne pouvait pas obtenir facilement des vaccins, à cause des mesures et des sanctions imposées au commerce avec l’île par les États-Unis. Je ne connaissais pas tout ça précisément, mais à Cuba, même les enfants savent qu’il existe un “blocus” contre le pays, sans forcément comprendre tous les détails et tout ce qu’il y a autour. Le pays, avec ses faibles revenus et son manque de devises, ne pouvait pas acheter les vaccins chinois, ni accéder à ceux de l’Organisation mondiale de la santé. Il n’y avait que les scientifiques cubains pour chercher une solution à un problème de santé comme celui-là, énorme, et en plus dans des conditions économiques si difficiles. 
+
+Il y avait quatre candidats-vaccins, tous avec un symbolisme patriotique : Soberana I, Abdala, Mambisa et Soberana II. Même si les contaminations et les morts continuaient, les vaccins ont fait baisser les chiffres. Et, avec l’arrivée de nouveaux variants, on a aussi introduit de façon générale Abdala et Soberana I, puis aussi Soberana II et Soberana Plus. Résultat, : en peu de temps, un contrôle de la pandémie ; une baisse des contaminations ; et les morts ont chuté rapidement. Les vaccins cubains ont commencé à être exportés vers d’autres pays : l’Italie, le Venezuela, le Vietnam, le Mexique, et d’autres pays des Caraïbes, et d’autres régions du monde. C’était incroyable d’avoir un vaccin à nous, et de voir disparaître ces rapports quotidiens pleins de chiffres lourds, de contaminations et de morts. 
+
+Et les jours continuaient, encore et encore. Parler au téléphone n’était plus amusant. L’idée d’être de nouveau près de mon frère me brûlait, et je crois que, finalement, j’ai ouvert les yeux grâce au cellulaire, parce que les livres que je lisais à ce moment-là ne disaient pas grand-chose sur la situation actuelle de mon frère. « C’est quoi, un drogué ? » C’était la seule question qui me rongeait. Et même si ce n’était pas mes affaires, moi, je voulais savoir. 
+
+Poser le pied sur le bitume, c’était la meilleure sensation. Et ce n’était que pour aller au coin de la rue. C’est comme ça que j’ai commencé à reprendre mon année scolaire. J’étais tellement habituée à rester à la maison que me lever tôt, ce n’était plus une option, : c’était un défi. Parfois, je faisais des cauchemars, et le sommeil partait. Ça arrivait de plus en plus souvent, jusqu’au point où la lumière du soleil me frappait les yeux. Je ne voulais plus de mon lit. Presque toutes les nuits, je finissais sur le canapé. Je n’aurais jamais dû autant penser. Trop penser n’a jamais été une bonne idée. Je ne me sens pas « traumatisée »… mais j’ai quand même besoin d’aller bien, et je n’y arrive pas. 
+
+Le premier jour d’école a été écrasant. Tout le monde, comme moi, savait que les sourires et les salutations étaient faux. Et j’ai commencé à détester le retour encore plus quand on venait me chercher en retard. Il y avait des fois où, trois ou quatre heures après l’heure normale de sortie, j’étais encore la seule enfant dans toute l’école. Et je n’avais même pas le droit de reprocher quoi que ce soit. La réponse était toujours la même : « on était occupés ». Je crois que c’est pour ça que j’ai été aussi déçue. Je n’ai pas réussi à faire des choses que je voulais faire, que je pouvais faire. Même une simple division me faisait exploser la tête. Je n’ai jamais eu de mauvaises notes, en général. J’imagine que j’ai tellement essayé de m’améliorer dans ce en quoi je n’étais pas bonne, que j’ai laissé tomber ce dans quoi j’étais la meilleure. 
+
+Le moment le plus heureux, c’était quand on me pointait du doigt parce que tout le monde savait que j’allais gagner. Je peux dire que, par rapport à la COVID, les choses se sont améliorées sur beaucoup de points. Mais si on met ça de côté, le bénéfice que ça m’apportait à moi, il était simplement merveilleux : les cours d’art, ou de préparation… je ne sais plus comment ça s’appelait. Mon plus grand rêve, c’était de voir mes futurs tableaux dans une galerie. Sauf que rien ne dure pour toujours. Et même si j’avais du talent, ce qui me manquait, c’était la présence, la constance de mes parents. Je ne vais pas les accuser, : personne n’a la faute. Ce n’était juste pas mon moment. Ça ne l’a jamais été. 
+
+Je n’enlève pas le fait que les enseignants influencent le développement émotionnel d’un enfant. Nous, on allait à l’école pour être traités comme des soldats. Parfois, ça dépassait les limites et ça finissait en maltraitance. Les pages de copie que j’ai dû faire, si je voulais avoir une collation à la récréation, je ne pourrais même pas les compter. J’ai perdu le goût de rire. Je ne peux plus parler de ma quatrième année, : même un livre ne suffirait pas à tout raconter. 
+
+Et la compréhension des adultes envers les enfants ou les adolescents n’était pas la meilleure non plus. « Grande personne, grand problème ; petite personne, petit problème. » Moi, je n’avais plus qu’à me taire et à continuer, pendant que les jours passaient. 
+
+Avec mon frère de retour à la maison, j’ai commencé à voir son changement d’attitude, son désintérêt. Je crois que tout le monde finit par se ressembler en grandissant. Moi, j’espérais ne jamais grandir. 
+
+C’est comme ça que je suis entrée en cinquième année. Rien n’avait changé, : on suivait encore le même protocole de sécurité, mais la manière de traiter les enfants était différente. Il y avait plus de calme, plus de compassion. C’est là que j’ai rencontré la première personne qui a changé ma vie, : une professeure qui est devenue mon coffre-fort à secrets. Pas seulement le mien, : celui de toute la classe. Et même si l’idée d’être punis ne nous terrifiait pas, on ne faisait pas totalement confiance… on attendait, c’est tout. 
+
+Avec elle, les choses se sont bien passées. C’était la meilleure période à l’école. Cette personne était vraiment spéciale, plus que spéciale, même… mais il y a toujours un « mais ». Il y a toujours quelque chose qui se met entre moi et l’extase. 
+
+Le temps a passé, vite, et j’étais déjà en sixième année. Avec le poids de certaines choses que je gardais encore pour moi, je ne savais même pas ce que ça voulait dire, grandir. J’étais dans un moment de plénitude… et pourtant quelque chose me perturbait. Je perdais des habitudes, des réflexes. Ma famille “parfaite” s’était effondrée. C’est arrivé, et personne ne me l’a raconté. Et moi, qui suis pourtant l’autrice de ma propre histoire, je ne veux prendre aucun rôle. Je continue d’écrire, mais à vide. 
+
+C’était moi contre mon propre monde. J’ai commencé une nouvelle année ; je crois que c’est l’âge où arrivent les intérêts, où l’on cherche un dénouement avec d’autres personnes. Et même si j’avais ce genre d’intérêt pour quelqu’un, je continuais de revoir l’ombre de ma maison, et tout ce qui vit à l’intérieur. Si je devais conclure cette année-là sans la déception d’un amour d’adolescente triste, ce ne serait plus mon histoire. Et s’il y a quelque chose qui décrivait ce sentiment-là, c’était la lettre que je lui ai écrite. 
+
+Je t’ai laissé des mots sous ta porte. Je ne sais pas si c’étaient des lettres, peut-être des poèmes, mais je t’ai laissé des mots sous ta porte. Et même si tu ne les lis pas, tu te souviendras de moi, parce que j’ai mis là tout ce que j’ai ressenti cette fois-là, si froide, pendant que je m’endormais en me sentant près de toi. Je vais m’arrêter ici, et dire adieu à la sombre solitude, parce que ma peau gardera toujours le doux nectar de ton odeur. La vérité finit toujours par arriver, et on sait tous qu’à la fin, elle sera despotique et crue. Je verrai ton âme partir, et je ferais mieux de lui dire adieu, en sachant que même moi, je ne voulais pas te laisser partir. Sur la rive d’une autre vie, je retrouverai encore tes yeux, en train de me regarder dans le reflet encombré de tout ce que j’ai été un jour… 
+
+Je ne voulais pas mettre de point final. Mais lui, il a teint ma feuille d’encre noire, il a taché l’histoire avec mépris. Et je ne peux pas le détester. Je déteste seulement le fait de ne pas y arriver. Et ça, ça m’a fait plus mal que tout ce qui se passait. 
+
+Une dispute de plus s’est ajoutée à la douleur. Et ça recommence. Il se drogue encore. Il retourne en arrière, au fond de l’abîme. Il fait froid. 
+
+Moi-même, j’avais tout mélangé. Je me sens minuscule. Et pendant que l’obscurité m’avale, je suis encore ici, à regarder vers le passé en vivant dans mon présent. Est-ce que mon bonheur aurait un goût sucré ? Le mien avait de beaux yeux. Et pendant qu’il s’en va en disant adieu, je reste perplexe, immobile. Je ne vais pas l’effacer de moi comme lui m’efface de sa vie. Mais la mienne continue. Une autre année perdue. Déjà décembre : une autre année perdue. Et il n’y a plus de pandémie… sauf que la vraie maladie, c’est ma maison. Et elle est en train de me tuer. 
+
+Est-ce que je suis une mauvaise fille ? J’aimerais être meilleure. Je ne vais pas me plaindre de mes parents, : ils n’y sont pour rien. Un autre internement devient nécessaire pour qu’il reprenne sa vie. Je n’ai pas de solution. Personne n’en a. Maintenant plus que jamais, je sens que je dois partir. Un autre mois seule… mais si je regarde de l’autre côté, il y a des problèmes qui valent la peine d’être affrontés. Sauf que ni moi, ni le problème, on ne vaut la peine. Alors je vais me laisser partir. 
+
+Fin ? 
+
+C’est la fin du commencement. Et j’essaie de renouer le lien qui reste, : plus ça avance, plus la peur augmente, plus elle s’amplifie. Et si la joie me prend par un autre angle, j’ai quand même encore ma famille. 
+
+ 

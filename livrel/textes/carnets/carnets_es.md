@@ -1,0 +1,21 @@
+Apoyada contra la pared amarillo sol de mi cuarto, sentada en la esquina de mi cama, puedo ver mi estante coronado de cuadernos. Estas paredes, que no han cambiado de color en dieciocho años, me han visto llenarlos con mis días y mis penas a lo largo del tiempo. El primero de ellos, con una portada dibujada de caracoles multicolores, cuenta la inocencia de mi infancia temprana, las ideas de una niña de siete años que vivía en un mundo de amor y tolerancia, donde el color de la piel no importaba más que el del cabello y donde todas las personas del mundo eran amigas. 
+
+Esos cuadernos cuentan la historia de cómo conocí a mi primera amiga, recién llegada de Colombia en ese entonces. El primer día de clases nos bastó una sola mirada para saber que seríamos inseparables. El detalle que nos atrajo la una a la otra: lo parecidas que eran nuestras melenas de león, igual de rizadas las dos. Recuerdo especialmente que ese día me dijo que yo parecía una palomita de maíz y que me había elegido precisamente por eso. 
+
+Después, mi grupo de amigas estaba formado por una francesa, una búlgara y una muchacha anglófona de rasgos asiáticos, cuyo origen no sabría precisar. Notábamos las diferencias de acento y de rasgos físicos, pero solo como curiosidades, nunca con la intención de dividirnos. Lo mismo pasó con mi primer novio, cuya piel era mucho más oscura que la mía, pero eso no tenía importancia, porque era simplemente quebequense, igual que yo, y compartíamos los mismos valores. 
+
+Por eso no me fue difícil explicar mi incomprensión y mi indignación cuando aprendí sobre el apartheid o el Tercer Reich, que me acababan de exponer a un problema nuevo: el racismo. Ya a esa edad llevaba grabada en el corazón la importancia de la justicia y la igualdad, y me rebelaba ante cualquier obstáculo a esos valores. Al posar la mirada sobre el quinto cuaderno de la fila, me pregunto qué cambió. Mis valores, no. Tal vez mi fe en la humanidad. 
+
+En mi caso, la pandemia debió haber llegado antes. Tal vez me habría evitado considerar mi cuarto como un refugio contra el acoso escolar que sufrí durante un año. Esa pandemia me habría salvado de esos muchachos, seguramente mal educados, que consideraban a las mujeres inferiores y que disfrutaban atacarlas por su sexualidad apenas naciente, insultándolas con todos esos nombres degradantes que no voy a repetir. 
+
+Por primera vez entendía que la diferencia podía ser un problema. No la diferencia física, claro, sino la diferencia de educación, la diferencia cultural. No se contenían para tocarnos sin nuestro consentimiento y para llamarnos prostitutas todo el día, como si tuvieran un derecho divino sobre nuestros cuerpos. No pude más que caer desde muy alto al ver ese abismo de valores entre ellos y yo, ellos que cometían actos y decían palabras que podrían calificarse como agresiones sexuales, mientras gritaban el nombre de su Dios sin vergüenza para justificar lo que hacían. Ya ni siquiera cuento las veces que escuché exactamente la frase: «¡Wallah, te voy a violar, sucia puta!». 
+
+Teníamos. Catorce. Años. 
+
+Lo peor de todo es que nadie decía nada. El fenómeno estaba demasiado extendido. Para todo el mundo era solo “la manera en que los varones se comportan con las muchachas”. Pero esa idea es falsa. En Quebec, las mujeres son iguales a los hombres, nos tratamos con respeto. Ninguna religión ni diferencia cultural debería jamás obstaculizar ese principio. Las mujeres no deberían tener que esconderse ni cubrirse para merecer ese respeto. Somos iguales. Y sin embargo, aquí estamos. 
+
+Llené ese quinto cuaderno con mi angustia y mi desesperación por salir algún día de esa situación. Fue entonces cuando llegó la pandemia, tomando para mí la forma de una salvadora que sabría protegerme del mundo y de quienes lo habitan. Pasé el primer mes recluida en ese cuarto de apariencia alegre que contrastaba con las pesadillas que me perseguían cada día entre mis sábanas azul cielo. 
+
+Hoy tengo dieciocho años. Poco a poco me estoy recuperando. Pero, sobre todo, ya no me escondo. Me niego a esconderme y a sentir vergüenza. Ya no acepto ciertas diferencias. No hago concesiones con esos valores. No volverán a verme callada. 
+
+Hoy hablo. 
