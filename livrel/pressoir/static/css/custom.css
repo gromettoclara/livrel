@@ -222,7 +222,7 @@ footer nav ul li:not(:first-child):not(:last-child)::after {
 /* ---------- Logo responsive ---------- */
 @media (max-width: 1025px) {
     header.main a.logo {
-        background-image: url("./svg/pum-logo-couleur.svg"); /* à remplacer */
+        background-image: url("./img/logolivrel.png"); /* à remplacer */
     }
 }
 
@@ -409,3 +409,7 @@ header.main h2 {
     font-size: 1.2rem !important;
 }
     
+
+em {
+    font-family: victoritalic;
+}

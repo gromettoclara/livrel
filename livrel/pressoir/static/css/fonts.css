@@ -19,3 +19,21 @@
     font-style: italic;
     font-display: swap;
 }
+
+@font-face {
+    font-family: 'victor';
+    src: url('./fonts/victor_mono/VictorMono-Regular.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'victoritalic';
+    src: url('./fonts/victor_mono/VictorMono-MediumItalic.woff2') format('woff2');
+    font-style: italic;
+}
+
+
+
+

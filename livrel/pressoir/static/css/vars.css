@@ -2,12 +2,13 @@
    See https://bugs.webkit.org/show_bug.cgi?id=190807 for reference. */
 
 /* Google Fonts — Playfair Display + Libre Baskerville */
-@import url('https://fonts.googleapis.com/css2?family=Victor+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+
+
 
 :root {
-    --font-family: 'Victor mono', monospace;
+    --font-family: 'victor';
     --font-family-headers: 'clack-italic';
-    --font-base: 'Victor mono', monospace;
+    --font-base: 'victor';
 
     --ink:   #1a1108;
     --paper: #f8f7f5;
@@ -19,9 +20,8 @@
     --body-color: var(--ink);
 
     --logo-position: no-repeat left center/100%;
-    --logo-url: url("./img/pressoir-logo.png"); /* ---------- à renplacer ---------- */
-    --small-logo-url: url("./svg/pum-logo-couleur.svg"); /* ---------- à remplacer ---------- */
-
+    --logo-url: url("./img/logolivrel.png");
+    --small-logo-url: url("./img/logolivrel.png"); 
     --balloon-color: var(--accent);
     --balloon-color-font: #f5f0e8;
     --balloon-font-size: .9rem;

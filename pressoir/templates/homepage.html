@@ -244,6 +244,11 @@ Schema specialise pour les revues et journaux-->
         white-space: nowrap;
       }
     }
+
+    .double div:first-of-type {
+      width: 250px;
+    }
+
    </style>
     <title>$book.title$</title>
 
@@ -259,7 +264,7 @@ Schema specialise pour les revues et journaux-->
       $body$
     </div>
   </section>
-  <section>
+  <section class="double">
     
     <div class="image">
       <a href="$first_chapter_id$.html"><img src="../media/porte.png" alt="$book.title$"></a>
