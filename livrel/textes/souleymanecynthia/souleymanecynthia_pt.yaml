@@ -1,0 +1,22 @@
+title: >-
+    Souleymane e Cynthia 
+subtitle: >-
+blockcitation: true
+authors:
+    - forname:
+      surname: Cynthia
+      orcidurl:
+      display:
+      presentation: |
+        presentations
+    - forname:
+      surname: Souleymane
+      orcidurl:
+      display:
+      presentation: |
+        presentations
+abstract_fr:
+abstract_en:
+keyword_fr:
+keyword_en:
+nocite: '@*'

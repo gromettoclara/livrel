@@ -413,3 +413,53 @@ header.main h2 {
 em {
     font-family: victoritalic;
 }
+
+.infobulle {
+     position: relative; 
+     display: inline-block;
+     cursor: pointer;
+     
+  }
+
+.infobulle::before {
+  content: '';
+  position: absolute;
+  left: -3px;
+  right: -3px;
+  top: 10%;
+  bottom: 5%;
+  background: #88b9bb;
+  border-radius: 2px 4px 3px 2px / 3px 2px 4px 3px;
+  transform: rotate(-0.4deg) skewX(-1deg);
+  z-index: -1;
+  clip-path: polygon(
+    0% 15%, 3% 5%, 8% 0%, 20% 3%, 35% 1%,
+    50% 4%, 65% 0%, 80% 3%, 92% 0%, 100% 8%,
+    98% 30%, 100% 55%, 99% 75%, 100% 90%,
+    95% 100%, 80% 96%, 65% 100%, 50% 97%,
+    35% 100%, 20% 97%, 8% 100%, 2% 92%,
+    0% 70%, 1% 45%
+  );
+}
+
+.infobulle .infobulle-text {
+    visibility: hidden;
+    width: 200px;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 6px;
+    position: absolute; 
+    z-index: 2;
+    bottom: 125%;
+    left: 50%;
+    margin-left: -100px;
+    opacity: 0;
+    transition: opacity 0.3s;
+}
+
+.infobulle:hover .infobulle-text {
+  visibility: visible;
+  opacity: 1;
+}

@@ -75,17 +75,23 @@ toc:
       - id: terrainvague
       - id: avant
       - id: creveroeil
-  - parttitle: Cuba
+      - id: carnets
+      - id: duel
+  - parttitle: La Habana
     content: 
+      - id: xavier
       - id: gabriela
       - id: flavia
       - id: leyna
-  - parttitle: Brésil
+      - id: daniela
+  - parttitle: Trois-Rivières
     content: 
       - id: ariamabeer
-  #- parttitle: Brésil
-  #- parttitle: Cuba
-  #- parttitle: Trois-Rivières
+      - id: chanceaslouba
+      - id: JJ
+      - id: souleymanecynthia
+#  - parttitle: Tekoa Ka’aguy Ovy Porã/Aldeia Mata Verde Bonita (Rio de Janeiro)
+#  - parttitle: Annexes/Anexos
 referenceCitation:
     - key: >-
           @
