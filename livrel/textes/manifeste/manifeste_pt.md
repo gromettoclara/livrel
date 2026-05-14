@@ -1,0 +1,13 @@
+Publicar um livro digital hoje é muitas vezes aceitar depender de plataformas pesadas, formatos que envelhecem mal, dependências técnicas e uma lógica comercial que ameaça a legibilidade dos textos a longo prazo. 
+
+É por isso que fizemos escolhas baseadas em formatos abertos, de texto completo e interoperáveis. 
+
+O conteúdo foi retroconvertido para um formato de texto simples. Nem software proprietário, nem formato binário opaco. O corpo do texto existe assim em formato Markdown, e os metadados (autor e título, essencialmente) em formato YAML, e isso para cada contribuição, em cada língua. Essas duas sintaxes são legíveis por um ser humano sem necessidade de software intermediário. Um ficheiro .md aberto em qualquer editor de texto revela o texto acompanhado da sua estruturação, expressa com uma marcação leve que não impede a leitura. Os formatos fechados criam dependências; as dependências criam fragilidade. Ao escolher formatos abertos, garantimos às leitoras e leitores futuros e às autoras e autores destes textos que eles não dependerão de nenhuma empresa para serem lidos daqui a dez, vinte ou cinquenta anos. 
+
+Markdown e YAML são também formatos semânticos que obrigam a formalizar rigorosamente a estrutura dos textos. Escolher esses formatos é também levar a sério a complexidade e as intenções do corpus que nos foi confiado. 
+
+As ferramentas de criação do site servem o texto, e não o contêm. A cadeia de publicação baseia-se no Le Pressoir, um gerador de sites estáticos que transforma as fontes em Markdown e YAML em HTML. O resultado é um conjunto de ficheiros que, reunidos e ligados entre si pelo princípio do hipertexto, formam um site na internet. A ferramenta e o seu código vivem ao lado do corpus de texto; o livro leva consigo a “imprensa” que o transformou num artefacto organizado e navegável. Esta dupla entrega garante que qualquer pessoa pode, a qualquer momento, reconstruir o site, modificar a formatação ou migrar para outro gerador. 
+
+Recusámos a complexidade dos CMS generalistas que se baseiam em aplicações dinâmicas, cujo uso, no nosso caso, seria supérfluo. Além disso, como o livro é apenas um conjunto de ficheiros HTML, ele é portátil. Move-se uma pasta e o livro reaparece. Pode, portanto, ser aberto num servidor remoto, na web, através das vias da internet, assim como localmente, numa máquina sem ligação à rede. 
+
+É dentro desta lógica que concebemos a cadeia de publicação deste livro, e agradecemos a todas as pessoas colaboradoras pela sua confiança. 

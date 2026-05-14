@@ -67,8 +67,9 @@ keyword_en: >-
     mot clé en 1, mot clé en 2, mot clé en 3
 # mots clés en anglais à séparer par des virgules
 toc:
+  - id: introglobale
+  - id: participantes
   - parttitle: Montréal
-  # si pas de partie, indiquer le titre du chapitre suivant
     content:
       - id: plafond
       - id: cassette
@@ -91,7 +92,10 @@ toc:
       - id: JJ
       - id: souleymanecynthia
 #  - parttitle: Tekoa Ka’aguy Ovy Porã/Aldeia Mata Verde Bonita (Rio de Janeiro)
-#  - parttitle: Annexes/Anexos
+#  - id: credits
+#  - id: notices
+#  - id: manifeste
+
 referenceCitation:
     - key: >-
           @

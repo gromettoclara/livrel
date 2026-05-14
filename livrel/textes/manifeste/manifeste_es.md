@@ -1,0 +1,13 @@
+Publicar un libro digital hoy en día es, a menudo, aceptar depender de plataformas pesadas, formatos que envejecen mal, dependencias técnicas y una lógica comercial que amenaza la legibilidad de los textos a largo plazo. 
+
+Por eso hemos tomado decisiones basadas en formatos abiertos, de texto completo e interoperables. 
+
+El contenido ha sido retroconvertido a un formato de texto plano. Ni software propietario ni formato binario opaco. El cuerpo del texto vive así en formato Markdown, y los metadatos (autor y título, principalmente) en formato YAML, y esto para cada contribución, en cada lengua. Estas dos sintaxis son legibles por un ser humano sin necesidad de software intermediario. Un archivo .md abierto en cualquier editor de texto revela el texto acompañado de su estructuración, expresada mediante un marcado ligero que no impide la lectura. Los formatos cerrados crean dependencias; las dependencias crean fragilidad. Al elegir formatos abiertos, garantizamos a futuras lectoras y lectores, y a las autoras y autores de estos textos, que no dependerán de ninguna empresa para ser leídos dentro de diez, veinte o cincuenta años. 
+
+Markdown y YAML son también formatos semánticos que obligan a formalizar rigurosamente la estructura de los textos. Elegir estos formatos es también tomar en serio la complejidad y las intenciones del corpus que nos ha sido confiado. 
+
+Las herramientas de creación del sitio sirven al texto y no lo contienen. La cadena de publicación se basa en Le Pressoir, un generador de sitios estáticos que transforma las fuentes Markdown y YAML en HTML. El resultado es un conjunto de archivos que, ensamblados y vinculados entre sí mediante el principio del hipertexto, forman un sitio web. La herramienta y su código viven junto al corpus de textos; el libro lleva consigo la “prensa” que lo convirtió en un artefacto organizado y navegable. Esta doble entrega garantiza que cualquier persona pueda, en cualquier momento, reconstruir el sitio, modificar el formato o migrar hacia otro generador. 
+
+Hemos rechazado la complejidad de los CMS generalistas basados en aplicaciones dinámicas, cuyo uso en nuestro caso sería superfluo. Además, como el libro no es más que un conjunto de archivos HTML, es portátil. Se mueve una carpeta y el libro reaparece. Puede, por tanto, abrirse en un servidor remoto, en la web, a través de internet, así como localmente en una máquina sin conexión. 
+
+Es en esta lógica que hemos concebido la cadena de publicación de este libro, y agradecemos a todas las personas colaboradoras por su confianza. 
